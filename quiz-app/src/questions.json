@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which phenomenon allows wireless signals to bend around obstacles?",
+    "options": ["Diffraction", "Reflection", "Refraction", "Scattering"],
+    "correctAnswer": "Diffraction"
+  },
+  {
+    "question": "What is the primary function of a modem in communication systems?",
+    "options": ["Signal amplification", "Modulation and demodulation", "Data encryption", "Signal filtering"],
+    "correctAnswer": "Modulation and demodulation"
+  },
+  {
+    "question": "Which frequency band is commonly used for satellite communication?",
+    "options": ["VHF", "UHF", "Ku-band", "AM band"],
+    "correctAnswer": "Ku-band"
+  },
+  {
+    "question": "What does OFDM stand for in wireless communication?",
+    "options": ["Optical Frequency Division Multiplexing", "Orthogonal Frequency Division Multiplexing", "Open Frequency Data Modulation", "Optimal Frequency Distribution Method"],
+    "correctAnswer": "Orthogonal Frequency Division Multiplexing"
+  },
+  {
+    "question": "Which layer of the OSI model handles routing and forwarding?",
+    "options": ["Data Link Layer", "Transport Layer", "Network Layer", "Session Layer"],
+    "correctAnswer": "Network Layer"
+  },
+  {
+    "question": "What is the maximum data rate of a standard USB 3.0 connection?",
+    "options": ["480 Mbps", "5 Gbps", "10 Gbps", "1 Gbps"],
+    "correctAnswer": "5 Gbps"
+  },
+  {
+    "question": "Which protocol is used for secure web browsing?",
+    "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
+    "correctAnswer": "HTTPS"
+  },
+  {
+    "question": "What does LTE stand for in mobile communication?",
+    "options": ["Long Term Evolution", "Latest Technology Enhancement", "Low Transmission Energy", "Linear Transfer Efficiency"],
+    "correctAnswer": "Long Term Evolution"
+  },
+  {
+    "question": "Which type of antenna is commonly used in mobile phones?",
+    "options": ["Parabolic antenna", "Patch antenna", "Yagi antenna", "Horn antenna"],
+    "correctAnswer": "Patch antenna"
+  },
+  {
+    "question": "What is the typical frequency range of Wi-Fi 6 (802.11ax)?",
+    "options": ["900 MHz only", "2.4 GHz and 5 GHz", "6 GHz only", "All of the above"],
+    "correctAnswer": "2.4 GHz and 5 GHz"
+  }
+]

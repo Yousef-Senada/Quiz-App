@@ -1,12 +1,12 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-import questions from './questions.json'
+import questions from './part1.json'
 
 // Screen types
 const SCREENS = {
   HOME: 'home',
   QUIZ: 'quiz',
-  RESULTS: 'results'
+  RESULTS: 'results',
 }
 
 // LocalStorage key
@@ -41,7 +41,7 @@ function App() {
       screen,
       currentQuestion,
       userAnswers,
-      selectedOption
+      selectedOption,
     }
     localStorage.setItem(STORAGE_KEY, JSON.stringify(stateToSave))
   }, [screen, currentQuestion, userAnswers, selectedOption])
@@ -65,7 +65,7 @@ function App() {
     if (selectedOption === null) return
 
     setIsTransitioning(true)
-    
+
     const newAnswers = { ...userAnswers, [currentQuestion]: selectedOption }
     setUserAnswers(newAnswers)
 
@@ -82,7 +82,7 @@ function App() {
     if (currentQuestion === 0) return
 
     setIsTransitioning(true)
-    
+
     // Save current selection before going back
     if (selectedOption !== null) {
       setUserAnswers({ ...userAnswers, [currentQuestion]: selectedOption })
@@ -142,9 +142,14 @@ function App() {
           <div className="logo-container">
             <div className="logo-icon">
               <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="50" cy="50" r="45" stroke="currentColor" strokeWidth="3"/>
-                <path d="M35 45C35 39 40 35 50 35C60 35 65 40 65 47C65 54 58 56 50 60" stroke="currentColor" strokeWidth="4" strokeLinecap="round"/>
-                <circle cx="50" cy="72" r="4" fill="currentColor"/>
+                <circle cx="50" cy="50" r="45" stroke="currentColor" strokeWidth="3" />
+                <path
+                  d="M35 45C35 39 40 35 50 35C60 35 65 40 65 47C65 54 58 56 50 60"
+                  stroke="currentColor"
+                  strokeWidth="4"
+                  strokeLinecap="round"
+                />
+                <circle cx="50" cy="72" r="4" fill="currentColor" />
               </svg>
             </div>
           </div>
@@ -188,10 +193,7 @@ function App() {
             </span>
           </div>
           <div className="progress-bar">
-            <div 
-              className="progress-fill" 
-              style={{ width: `${progress}%` }}
-            ></div>
+            <div className="progress-fill" style={{ width: `${progress}%` }}></div>
           </div>
         </div>
 
@@ -209,26 +211,24 @@ function App() {
             >
               <span className="option-letter">{String.fromCharCode(65 + index)}</span>
               <span className="option-text">{option}</span>
-              {selectedOption === option && (
-                <span className="check-mark">✓</span>
-              )}
+              {selectedOption === option && <span className="check-mark">✓</span>}
             </button>
           ))}
         </div>
 
         <div className="quiz-navigation">
-          <button 
-            className="nav-btn prev-btn" 
+          <button
+            className="nav-btn prev-btn"
             onClick={prevQuestion}
             disabled={currentQuestion === 0}
           >
             <span className="nav-icon">←</span>
             <span>Previous</span>
           </button>
-          
+
           {isLastQuestion ? (
-            <button 
-              className="nav-btn finish-btn" 
+            <button
+              className="nav-btn finish-btn"
               onClick={finishQuiz}
               disabled={selectedOption === null}
             >
@@ -236,8 +236,8 @@ function App() {
               <span className="nav-icon">🏁</span>
             </button>
           ) : (
-            <button 
-              className="nav-btn next-btn" 
+            <button
+              className="nav-btn next-btn"
               onClick={nextQuestion}
               disabled={selectedOption === null}
             >
@@ -254,7 +254,7 @@ function App() {
   if (screen === SCREENS.RESULTS) {
     const score = calculateScore()
     const percentage = getPercentage()
-    
+
     let gradeClass = 'grade-low'
     let gradeEmoji = '😔'
     if (percentage >= 80) {
@@ -284,16 +284,19 @@ function App() {
           </div>
           <div className="score-percentage">{percentage}%</div>
           <div className="score-label">
-            {percentage >= 80 ? 'Excellent! / ممتاز!' : 
-             percentage >= 60 ? 'Good Job! / جيد جداً!' : 
-             percentage >= 40 ? 'Keep Trying! / استمر!' : 
-             'Need More Practice / تحتاج مراجعة'}
+            {percentage >= 80
+              ? 'Excellent! / ممتاز!'
+              : percentage >= 60
+              ? 'Good Job! / جيد جداً!'
+              : percentage >= 40
+              ? 'Keep Trying! / استمر!'
+              : 'Need More Practice / تحتاج مراجعة'}
           </div>
         </div>
 
         <div className="review-section">
           <h2 className="review-title">Review Answers / مراجعة الإجابات</h2>
-          
+
           <div className="review-list">
             {questions.map((question, index) => {
               const userAnswer = userAnswers[index]
@@ -303,17 +306,21 @@ function App() {
                 <div key={index} className={`review-card ${isCorrect ? 'correct' : 'incorrect'}`}>
                   <div className="review-header">
                     <span className="review-number">Q{index + 1}</span>
-                    <span className={`review-status ${isCorrect ? 'status-correct' : 'status-incorrect'}`}>
+                    <span
+                      className={`review-status ${
+                        isCorrect ? 'status-correct' : 'status-incorrect'
+                      }`}
+                    >
                       {isCorrect ? '✅ Correct' : '❌ Incorrect'}
                     </span>
                   </div>
                   <p className="review-question">{question.question}</p>
-                  
+
                   <div className="review-answers">
                     {question.options.map((option, optIndex) => {
                       const isUserAnswer = option === userAnswer
                       const isCorrectAnswer = option === question.correctAnswer
-                      
+
                       let optionClass = ''
                       if (isCorrectAnswer) {
                         optionClass = 'option-correct'
@@ -323,11 +330,19 @@ function App() {
 
                       return (
                         <div key={optIndex} className={`review-option ${optionClass}`}>
-                          <span className="option-letter">{String.fromCharCode(65 + optIndex)}</span>
+                          <span className="option-letter">
+                            {String.fromCharCode(65 + optIndex)}
+                          </span>
                           <span className="option-text">{option}</span>
-                          {isCorrectAnswer && <span className="option-badge correct-badge">✓ Correct</span>}
-                          {isUserAnswer && !isCorrect && <span className="option-badge wrong-badge">✗ Your Answer</span>}
-                          {isUserAnswer && isCorrect && <span className="option-badge your-badge">Your Answer</span>}
+                          {isCorrectAnswer && (
+                            <span className="option-badge correct-badge">✓ Correct</span>
+                          )}
+                          {isUserAnswer && !isCorrect && (
+                            <span className="option-badge wrong-badge">✗ Your Answer</span>
+                          )}
+                          {isUserAnswer && isCorrect && (
+                            <span className="option-badge your-badge">Your Answer</span>
+                          )}
                         </div>
                       )
                     })}

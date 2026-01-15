@@ -1,52 +1,1005 @@
 [
   {
-    "question": "Which phenomenon allows wireless signals to bend around obstacles?",
-    "options": ["Diffraction", "Reflection", "Refraction", "Scattering"],
-    "correctAnswer": "Diffraction"
+    "question": "Which phenomenon allows wireless signals to bend around obstacles like buildings or hills?",
+    "options": ["a. Diffraction", "b. Refraction", "c. Reflection", "d. Scattering"],
+    "answer": "a. Diffraction"
   },
   {
-    "question": "What is the primary function of a modem in communication systems?",
-    "options": ["Signal amplification", "Modulation and demodulation", "Data encryption", "Signal filtering"],
-    "correctAnswer": "Modulation and demodulation"
+    "question": "Given: Transmitter Power = 38 dBm, Antenna Gain = 7.15 dBi, Line Loss = 3 dB. Calculate the ERP in dBW.",
+    "options": ["a. 42.15 dBW", "b. 12.15 dBW", "c. 40 dBW", "d. 10 dBW"],
+    "answer": "d. 10 dBW"
   },
   {
-    "question": "Which frequency band is commonly used for satellite communication?",
-    "options": ["VHF", "UHF", "Ku-band", "AM band"],
-    "correctAnswer": "Ku-band"
+    "question": "Which type of RFID tag combines a battery-powered microchip with backscatter communication?",
+    "options": ["Transponder", "Semi-passive RFID tag", "Active RFID tag", "Passive RFID tag"],
+    "answer": "Semi-passive RFID tag"
   },
   {
-    "question": "What does OFDM stand for in wireless communication?",
-    "options": ["Optical Frequency Division Multiplexing", "Orthogonal Frequency Division Multiplexing", "Open Frequency Data Modulation", "Optimal Frequency Distribution Method"],
-    "correctAnswer": "Orthogonal Frequency Division Multiplexing"
+    "question": "Which modulation technique uses both amplitude and phase variations to transmit data efficiently, often used in high-speed networks?",
+    "options": ["a. QPSK", "b. BPSK", "c. QAM", "d. FM"],
+    "answer": "c. QAM"
   },
   {
-    "question": "Which layer of the OSI model handles routing and forwarding?",
-    "options": ["Data Link Layer", "Transport Layer", "Network Layer", "Session Layer"],
-    "correctAnswer": "Network Layer"
+    "question": "In RFID-based supply chain management, which of the following benefits directly reduces the likelihood of inventory shortages?",
+    "options": [
+      "a. Real-time tracking and automated inventory updates",
+      "b. Integrating RFID with manual record-keeping systems",
+      "c. Increasing warehouse staff for manual updates",
+      "d. Manual barcode scanning to reduce delays"
+    ],
+    "answer": "a. Real-time tracking and automated inventory updates"
   },
   {
-    "question": "What is the maximum data rate of a standard USB 3.0 connection?",
-    "options": ["480 Mbps", "5 Gbps", "10 Gbps", "1 Gbps"],
-    "correctAnswer": "5 Gbps"
+    "question": "Which RFID frequency band offers the best penetration through water and tissue?",
+    "options": [
+      "a. Low Frequency (LF)",
+      "b. Microwave",
+      "c. Ultra-High Frequency (UHF)",
+      "d. High Frequency (HF)"
+    ],
+    "answer": "a. Low Frequency (LF)"
   },
   {
-    "question": "Which protocol is used for secure web browsing?",
-    "options": ["HTTP", "FTP", "HTTPS", "SMTP"],
-    "correctAnswer": "HTTPS"
+    "question": "According to the latest update of the Egyptian National Telecom Regulatory Authority regulations in Radio Spectrum (short range devices), what is the center of the specific frequencies of the channels where the Interrogator in sub-band is permitted to transmit at 2 W e.r.p.?",
+    "options": [
+      "a. 865.0 MHz, 865.5 MHz, 866.0 MHz, and 866.5 MHz",
+      "b. 865.6 MHz, 865.9 MHz, 866.4 MHz, and 866.2 MHz",
+      "c. 865.7 MHz, 866.3 MHz, 866.9 MHz, and 867.5 MHz",
+      "d. 865.4 MHz, 866.1 MHz, 866.9 MHz, and 867.4 MHz",
+      "e. 865.0 GHz, 866.0 GHz, 867.0 GHz, and 868.0 GHz",
+      "f. 865.25 MHz, 865.25 MHz, 866.25 MHz, and 866.25 MHz",
+      "g. 865.6 MHz, 865.8 MHz, 866.0 MHz, and 866.2 MHz",
+      "h. 865.0 MHz, 866.0 MHz, 867.0 MHz, and 868.0 MHz"
+    ],
+    "answer": "c. 865.7 MHz, 866.3 MHz, 866.9 MHz, and 867.5 MHz"
   },
   {
-    "question": "What does LTE stand for in mobile communication?",
-    "options": ["Long Term Evolution", "Latest Technology Enhancement", "Low Transmission Energy", "Linear Transfer Efficiency"],
-    "correctAnswer": "Long Term Evolution"
+    "question": "Which frequency range is commonly used in RFID systems for tracking and inventory management?",
+    "options": [
+      "a. Low Frequency (LF)",
+      "b. Ultra-High Frequency (UHF)",
+      "c. Microwave Frequency",
+      "d. High Frequency (HF)"
+    ],
+    "answer": "b. Ultra-High Frequency (UHF)"
   },
   {
-    "question": "Which type of antenna is commonly used in mobile phones?",
-    "options": ["Parabolic antenna", "Patch antenna", "Yagi antenna", "Horn antenna"],
-    "correctAnswer": "Patch antenna"
+    "question": "What is a potential security concern associated with RFID technology?",
+    "options": [
+      "a. Limited data storage capability",
+      "b. Inability to function in high temperatures",
+      "c. Unauthorized scanning of RFID tags",
+      "d. High implementation cost"
+    ],
+    "answer": "c. Unauthorized scanning of RFID tags"
   },
   {
-    "question": "What is the typical frequency range of Wi-Fi 6 (802.11ax)?",
-    "options": ["900 MHz only", "2.4 GHz and 5 GHz", "6 GHz only", "All of the above"],
-    "correctAnswer": "2.4 GHz and 5 GHz"
+    "question": "Which emerging technology is often integrated with RFID to improve its capabilities?",
+    "options": [
+      "a. Internet of Things (IoT)",
+      "b. Cloud Computing",
+      "c. Blockchain",
+      "d. All of the above"
+    ],
+    "answer": "d. All of the above"
+  },
+  {
+    "question": "What is another name for the access network?",
+    "options": [
+      "a) The backbone network",
+      "b) The core network",
+      "c) The first-mile network",
+      "d) The internet backbone"
+    ],
+    "answer": "c) The first-mile network"
+  },
+  {
+    "question": "What do access networks connect?",
+    "options": [
+      "a) Servers to routers",
+      "b) Service provider central offices (COs) to businesses and residential subscribers",
+      "c) Routers to other routers",
+      "d) Subscribers directly to the internet"
+    ],
+    "answer": "b) Service provider central offices (COs) to businesses and residential subscribers"
+  },
+  {
+    "question": "Which of the following is NOT a term used to refer to access networks?",
+    "options": [
+      "a) Last-mile network",
+      "b) Subscriber access network",
+      "c) Local loop",
+      "d) Core network"
+    ],
+    "answer": "d) Core network"
+  },
+  {
+    "question": "What does CO stand for in the context of access networks?",
+    "options": [
+      "a) Company Office",
+      "b) Central Offices",
+      "c) Control Operator",
+      "d) Communication Outpost"
+    ],
+    "answer": "b) Central Offices"
+  },
+  {
+    "question": "What are subscribers demanding in first-mile access solutions?",
+    "options": [
+      "a) Low bandwidth and high prices",
+      "b) High bandwidth, media-rich Internet services, and comparable prices",
+      "c) Basic text-based services and high prices",
+      "d) Limited bandwidth and low prices"
+    ],
+    "answer": "b) High bandwidth, media-rich Internet services, and comparable prices"
+  },
+  {
+    "question": "What does LAN stand for in the context of corporate network demands?",
+    "options": [
+      "a) Local Area Node",
+      "b) Large Area Network",
+      "c) Local Area Network",
+      "d) Land Access Network"
+    ],
+    "answer": "c) Local Area Network"
+  },
+  {
+    "question": "What were DSL and CATV originally built for?",
+    "options": [
+      "a) Data transmission",
+      "b) Carrying voice and analog TV signals, respectively",
+      "c) Internet access",
+      "d) Video conferencing"
+    ],
+    "answer": "b) Carrying voice and analog TV signals, respectively"
+  },
+  {
+    "question": "What is a limitation of DSL regarding distance?",
+    "options": [
+      "a) Subscribers must be within 180,000 feet of a central office",
+      "b) There is no distance limitation",
+      "c) Subscribers must be less than 18,000 feet from a central office",
+      "d) Subscribers must be more than 18,000 feet from a central office"
+    ],
+    "answer": "c) Subscribers must be less than 18,000 feet from a central office"
+  },
+  {
+    "question": "What does CATV stand for in the context of access networks?",
+    "options": [
+      "a) Cable Access Television Video",
+      "b) Community Antenna Television",
+      "c) Cable Advanced Television View",
+      "d) Common Access Television View"
+    ],
+    "answer": "b) Community Antenna Television"
+  },
+  {
+    "question": "What is a variation of DSL that has been introduced in the last decade?",
+    "options": ["a) ADSL", "b) SDSL", "c) VDSL (very high bit-rate DSL)", "d) IDSL"],
+    "answer": "c) VDSL (very high bit-rate DSL)"
+  },
+  {
+    "question": "What is the approximate downstream bandwidth supported by VDSL?",
+    "options": ["a) 10 Mbps", "b) 25 Mbps", "c) 50 Mbps", "d) 100 Mbps"],
+    "answer": "c) 50 Mbps"
+  },
+  {
+    "question": "What does VDSL stand for?",
+    "options": [
+      "a) Very Digital Subscriber Line",
+      "b) Virtual Digital Subscriber Line",
+      "c) Very high bit-rate Digital Subscriber Line",
+      "d) Variable Digital Subscriber Line"
+    ],
+    "answer": "c) Very high bit-rate Digital Subscriber Line"
+  },
+  {
+    "question": "How do CATV networks provide Internet services?",
+    "options": [
+      "a) Through fiber optic cables",
+      "b) Through telephone lines",
+      "c) By dedicating some Radio Frequency (RF) channels in co-axial cable for data",
+      "d) Through satellite connections"
+    ],
+    "answer": "c) By dedicating some Radio Frequency (RF) channels in co-axial cable for data"
+  },
+  {
+    "question": "What was the primary purpose for which CATV networks were built?",
+    "options": [
+      "a) Data transmission",
+      "b) Delivering broadcast services",
+      "c) Internet access",
+      "d) Video conferencing"
+    ],
+    "answer": "b) Delivering broadcast services"
+  },
+  {
+    "question": "What happens to network performance in CATV networks under high load?",
+    "options": [
+      "a) It improves",
+      "b) It remains the same",
+      "c) It degrades",
+      "d) It becomes more stable"
+    ],
+    "answer": "c) It degrades"
+  },
+  {
+    "question": "What does RF stand for in the context of CATV networks?",
+    "options": [
+      "a) Radio Function",
+      "b) Real Frequency",
+      "c) Radio Frequency",
+      "d) Remote Frequency"
+    ],
+    "answer": "c) Radio Frequency"
+  },
+  {
+    "question": "What is identified as a bottleneck for providing broadband services?",
+    "options": [
+      "a) The core network",
+      "b) The internet backbone",
+      "c) The access network",
+      "d) The server infrastructure"
+    ],
+    "answer": "c) The access network"
+  },
+  {
+    "question": "What does ADSL2+ stand for?",
+    "options": [
+      "a) Advanced Digital Subscriber Line 2 Plus",
+      "b) Advanced Digital System Line 2 Plus",
+      "c) Asymmetric Digital Subscriber Line 2 Plus",
+      "d) Asynchronous Digital Subscriber Line 2 Plus"
+    ],
+    "answer": "c) Asymmetric Digital Subscriber Line 2 Plus"
+  },
+  {
+    "question": "What is desired for next-generation broadband applications?",
+    "options": [
+      "a) Slower access-network technologies",
+      "b) Comparable access-network technologies",
+      "c) Faster access-network technologies",
+      "d) Existing access-network technologies"
+    ],
+    "answer": "c) Faster access-network technologies"
+  },
+  {
+    "question": "What is the basis for next-generation access networks mentioned in the text?",
+    "options": ["a) DSL", "b) CATV", "c) Passive Optical Network (PON)", "d) Wireless networks"],
+    "answer": "c) Passive Optical Network (PON)"
+  },
+  {
+    "question": "What does the FTTx model offer?",
+    "options": [
+      "a) Limited access bandwidth",
+      "b) Moderate access bandwidth",
+      "c) Unprecedented access bandwidth to end users",
+      "d) Similar access bandwidth to existing technologies"
+    ],
+    "answer": "c) Unprecedented access bandwidth to end users"
+  },
+  {
+    "question": "What does PON stand for?",
+    "options": [
+      "a) Public Optical Node",
+      "b) Passive Optical Network",
+      "c) Private Optical Network",
+      "d) Primary Optical Node"
+    ],
+    "answer": "b) Passive Optical Network"
+  },
+  {
+    "question": "Which of the following is an example of an FTTx deployment?",
+    "options": [
+      "a) Fiber-to-the-office (FTTO)",
+      "b) Fiber-to-the-Building (FTTB)",
+      "c) FTTH (Fiber-to-the-Home)",
+      "d) All of the above"
+    ],
+    "answer": "d) All of the above"
+  },
+  {
+    "question": "What type of topology is depicted for FTTH deployment?",
+    "options": [
+      "a) Bus topology",
+      "b) Star topology",
+      "c) Ring topology",
+      "d) Point-to-Point (PtP) topology"
+    ],
+    "answer": "d) Point-to-Point (PtP) topology"
+  },
+  {
+    "question": "In a PtP FTTH system, how is each subscriber connected to the central office?",
+    "options": [
+      "a) Through shared coaxial cable",
+      "b) Through a wireless connection",
+      "c) Through a dedicated fiber optic cable",
+      "d) Through existing telephone lines"
+    ],
+    "answer": "c) Through a dedicated fiber optic cable"
+  },
+  {
+    "question": "If there are N subscribers in a PtP FTTH design, how many transceivers are required?",
+    "options": ["a) N/2", "b) N", "c) 2N", "d) N²"],
+    "answer": "c) 2N"
+  },
+  {
+    "question": "If there are N subscribers at an average distance of L km from the central office, what is the total fiber length required in a PtP design?",
+    "options": ["a) N + L", "b) N/ L", "c) L/ N", "d) N × L"],
+    "answer": "d) N × L"
+  },
+  {
+    "question": "Where is the Curb Switch typically located?",
+    "options": [
+      "a) At the central office",
+      "b) Closer to the subscribers, often in a neighborhood or on a street corner",
+      "c) Inside each subscriber's home",
+      "d) On a telephone pole"
+    ],
+    "answer": "b) Closer to the subscribers, often in a neighborhood or on a street corner"
+  },
+  {
+    "question": "What is the role of the Curb Switch in this FTTH deployment?",
+    "options": [
+      "a) To provide wireless internet access",
+      "b) To act as a central distribution point for fiber optic connections to multiple subscribers",
+      "c) To convert optical signals to electrical signals",
+      "d) Both b and c"
+    ],
+    "answer": "d) Both b and c"
+  },
+  {
+    "question": "What does CO stand for?",
+    "options": ["a) Company Office", "b) Central Office", "c) Customer Outlet"],
+    "answer": "b) Central Office"
+  },
+  {
+    "question": "In the curb-switched scenario, assuming negligible distance between the switch and customers, how much fiber is consumed?",
+    "options": ["a) 2L km", "b) N × L km", "c) L km", "d) N km"],
+    "answer": "c) L km"
+  },
+  {
+    "question": "How many transceivers are required in this curb-switched design, where N is the number of subscribers?",
+    "options": ["a) N", "b) 2N", "c) 2N + 2", "d) N + 2"],
+    "answer": "c) 2N + 2"
+  },
+  {
+    "question": "What additional requirement does the curb-switched network architecture have at the curb switch?",
+    "options": [
+      "a) A dedicated fiber optic connection to each subscriber",
+      "b) A large cooling system",
+      "c) Electrical power and back-up power",
+      "d) A powerful router"
+    ],
+    "answer": "c) Electrical power and back-up power"
+  },
+  {
+    "question": "What does L represent in the context of fiber consumption?",
+    "options": [
+      "a) The number of subscribers",
+      "b) The number of transceivers",
+      "c) The distance between the CO and the curb switch",
+      "d) The total fiber length to each subscriber"
+    ],
+    "answer": "c) The distance between the CO and the curb switch"
+  },
+  {
+    "question": "What is the function of the Passive Optical Splitter?",
+    "options": [
+      "a) To amplify the optical signal",
+      "b) To convert optical signals to electrical signals",
+      "c) To split the optical signal from the CO into multiple signals for different subscribers",
+      "d) To manage network traffic"
+    ],
+    "answer": "c) To split the optical signal from the CO into multiple signals for different subscribers"
+  },
+  {
+    "question": "In Passive Optical Splitter scenario, how many fibers typically run from the CO to the splitter?",
+    "options": ["a) N", "b) 2N", "c) One", "d) N + 1"],
+    "answer": "c) One"
+  },
+  {
+    "question": "What is the primary advantage of using a Passive Optical Splitter in FTTH deployments?",
+    "options": [
+      "a) Increased bandwidth per user",
+      "b) Reduced signal loss",
+      "c) Reduced fiber deployment costs",
+      "d) Increased security"
+    ],
+    "answer": "c) Reduced fiber deployment costs"
+  },
+  {
+    "question": "What type of network is PON?",
+    "options": ["a) Point-to-point (PtP)", "b) Point-to-multipoint (PtMP)", "c) Mesh", "d) Ring"],
+    "answer": "b) Point-to-multipoint (PtMP)"
+  },
+  {
+    "question": "What does PON minimize?",
+    "options": [
+      "a) Network speed",
+      "b) Bandwidth",
+      "c) Optical transceivers, CO terminations, and fiber deployment",
+      "d) Signal loss"
+    ],
+    "answer": "c) Optical transceivers, CO terminations, and fiber deployment"
+  },
+  {
+    "question": "How many transceivers are required in this PON design, where N is the number of subscribers?",
+    "options": ["a) 2N", "b) N", "c) N + 1", "d) 2N + 2"],
+    "answer": "c) N + 1"
+  },
+  {
+    "question": "How much fiber is required in this PON design, where L is the distance from the CO to the splitter?",
+    "options": ["a) N * L", "b) 2L", "c) N + L", "d) L"],
+    "answer": "d) L"
+  },
+  {
+    "question": "What device does a PON employ to split and combine optical signals?",
+    "options": ["a) Repeaters", "b) Amplifiers", "c) Couplers (passive device)", "d) Switches"],
+    "answer": "c) Couplers (passive device)"
+  },
+  {
+    "question": "What is the function of an optical coupler in a PON?",
+    "options": [
+      "a) To amplify the optical signal",
+      "b) To convert optical signals to electrical signals",
+      "c) To split an optical signal from one fiber into several fibers and combine optical signals from multiple fibers into one.",
+      "d) To regenerate the optical signal"
+    ],
+    "answer": "c) To split an optical signal from one fiber into several fibers and combine optical signals from multiple fibers into one."
+  },
+  {
+    "question": "What does an optical coupler consist of?",
+    "options": [
+      "a) Several lenses and prisms",
+      "b) Electronic circuits",
+      "c) Two fibers fused together",
+      "d) A mirror and a prism"
+    ],
+    "answer": "c) Two fibers fused together"
+  },
+  {
+    "question": "What happens to the signal power received on any input port of an optical coupler?",
+    "options": [
+      "a) It is amplified",
+      "b) It is blocked",
+      "c) It is split between both output ports",
+      "d) It is converted to an electrical signal"
+    ],
+    "answer": "c) It is split between both output ports"
+  },
+  {
+    "question": "What does ONU stand for?",
+    "options": ["a) Optical Network User", "b) Optical Network Unit", "c) Optical Node Unit"],
+    "answer": "b) Optical Network Unit"
+  },
+  {
+    "question": "What does OLT stand for?",
+    "options": [
+      "a) Optical Line User",
+      "b) Optical Line Terminal",
+      "c) Optical Link Terminal",
+      "d) Optical Local Terminal"
+    ],
+    "answer": "b) Optical Line Terminal"
+  },
+  {
+    "question": "Where do all transmissions in a PON occur?",
+    "options": [
+      "a) Between ONUs",
+      "b) Between COs",
+      "c) Between an Optical Line Terminal (OLT) and Optical Network Units (ONUs)",
+      "d) Between routers"
+    ],
+    "answer": "c) Between an Optical Line Terminal (OLT) and Optical Network Units (ONUs)"
+  },
+  {
+    "question": "Where is the OLT located?",
+    "options": [
+      "a) At the end-user location",
+      "b) At the curb",
+      "c) In the Central Office (CO)",
+      "d) In the metropolitan area"
+    ],
+    "answer": "c) In the Central Office (CO)"
+  },
+  {
+    "question": "What does the OLT connect the optical access network to?",
+    "options": [
+      "a) Individual ONUs only",
+      "b) Other access networks",
+      "c) The metropolitan-area network (MAN), backbone, or long-haul network",
+      "d) Local area networks (LANs)"
+    ],
+    "answer": "c) The metropolitan-area network (MAN), backbone, or long-haul network"
+  },
+  {
+    "question": "Where can the ONU be located?",
+    "options": [
+      "a) At the end-user location (FTTH and FTTB)",
+      "b) At the curb (FTTC)",
+      "c) Both a and b",
+      "d) Only at the CO"
+    ],
+    "answer": "c) Both a and b"
+  },
+  {
+    "question": "What does MAN stand for?",
+    "options": [
+      "a) Main Area Network",
+      "b) Metropolitan-Area Network",
+      "c) Municipal Area Network",
+      "d) Medium Area Network"
+    ],
+    "answer": "b) Metropolitan-Area Network"
+  },
+  {
+    "question": "What does PON minimize in both the CO and the local loop?",
+    "options": [
+      "a) Network traffic",
+      "b) Signal loss",
+      "c) Fiber deployment",
+      "d) Equipment costs at the customer premises"
+    ],
+    "answer": "c) Fiber deployment"
+  },
+  {
+    "question": "What causes unequal optical signal attenuation in a PON?",
+    "options": [
+      "a) Different fiber types",
+      "b) Different wavelengths",
+      "c) Unequal distances between the CO and the ONUs",
+      "d) Different splitter ratios"
+    ],
+    "answer": "c) Unequal distances between the CO and the ONUs"
+  },
+  {
+    "question": "What is the problem of varying power levels received at the OLT from different ONUs called?",
+    "options": [
+      "a) The attenuation problem",
+      "b) The dispersion problem",
+      "c) The near-far problem",
+      "d) The interference problem"
+    ],
+    "answer": "c) The near-far problem"
+  },
+  {
+    "question": "What might happen if the OLT receiver is adjusted to receive a high-power signal from a close ONU when receiving a weak signal from a distant ONU?",
+    "options": [
+      "a) It may amplify the weak signal",
+      "b) It may mistakenly read ones as zeros",
+      "c) It may lose the signal entirely",
+      "d) It may introduce noise"
+    ],
+    "answer": "b) It may mistakenly read ones as zeros"
+  },
+  {
+    "question": "What might happen if the OLT receiver is trained on a weak signal when receiving a strong signal from a close ONU?",
+    "options": [
+      "a) It may attenuate the strong signal",
+      "b) It may distort the signal",
+      "c) It may read zeros as ones",
+      "d) It may delay the signal"
+    ],
+    "answer": "c) It may read zeros as ones"
+  },
+  {
+    "question": "What does OLT stand for?",
+    "options": [
+      "a) Optical Link Terminal",
+      "b) Optical Line User",
+      "c) Optical Line Terminal",
+      "d) Optical Local Terminal"
+    ],
+    "answer": "c) Optical Line Terminal"
+  },
+  {
+    "question": "What does ONU stand for?",
+    "options": [
+      "a) Optical Node Unit",
+      "b) Optical Network User",
+      "c) Optical Network Unit",
+      "d) Optical Network Utility"
+    ],
+    "answer": "c) Optical Network Unit"
+  },
+  {
+    "question": "What does TDM stand for?",
+    "options": [
+      "a) Time Division Multiplex",
+      "b) Time Division Multiplexing",
+      "c) Time Digital Multiplexing",
+      "d) Time Digital Multiplex"
+    ],
+    "answer": "b) Time Division Multiplexing"
+  },
+  {
+    "question": "What must the OLT receiver be able to do to properly detect the incoming bit stream in a TDM PON?",
+    "options": [
+      "a) Amplify the signal",
+      "b) Filter out noise",
+      "c) Quickly adjust its zero-one threshold at the beginning of each received timeslot (operate in burst mode)",
+      "d) Convert optical signals to electrical signals"
+    ],
+    "answer": "c) Quickly adjust its zero-one threshold at the beginning of each received timeslot (operate in burst mode)"
+  },
+  {
+    "question": "Where is a burst-mode receiver necessary in a PON?",
+    "options": [
+      "a) At every ONU",
+      "b) Only in the OLT",
+      "c) At the splitter",
+      "d) At both the OLT and ONUs"
+    ],
+    "answer": "b) Only in the OLT"
+  },
+  {
+    "question": "What do the ONUs do with the bit stream sent by the OLT?",
+    "options": [
+      "a) Re-transmit it",
+      "b) Amplify it",
+      "c) Read a continuous bit stream (data or idle bits)",
+      "d) Convert it to a different format"
+    ],
+    "answer": "c) Read a continuous bit stream (data or idle bits)"
+  },
+  {
+    "question": "Why don't ONUs need to re-adjust quickly like the OLT?",
+    "options": [
+      "a) Because they transmit at a constant power level",
+      "b) Because they use a different modulation scheme",
+      "c) Because they read a continuous bit stream from the OLT",
+      "d) Because they are closer to the CO"
+    ],
+    "answer": "c) Because they read a continuous bit stream from the OLT"
+  },
+  {
+    "question": "What is the alternative solution proposed to address the near-far problem?",
+    "options": [
+      "a) Adjusting the OLT receiver sensitivity",
+      "b) Using optical amplifiers",
+      "c) ONUs adjusting their transmitter powers",
+      "d) Using different wavelengths for each ONU"
+    ],
+    "answer": "c) ONUs adjusting their transmitter powers"
+  },
+  {
+    "question": "What is the goal of ONUs adjusting their transmitter powers?",
+    "options": [
+      "a) To increase overall network bandwidth",
+      "b) To ensure that power levels received by the OLT from all ONUs are the same",
+      "c) To reduce signal attenuation",
+      "d) To simplify OLT receiver design"
+    ],
+    "answer": "b) To ensure that power levels received by the OLT from all ONUs are the same"
+  },
+  {
+    "question": "What is a consequence of ONUs adjusting their transmitter powers?",
+    "options": [
+      "a) Simpler ONU hardware",
+      "b) No need for a signaling protocol",
+      "c) More complex ONU hardware",
+      "d) Reduced cost"
+    ],
+    "answer": "c) More complex ONU hardware"
+  },
+  {
+    "question": "What is required for the ONUs to effectively adjust their transmitter powers?",
+    "options": [
+      "a) Direct communication between ONUs",
+      "b) A complex modulation scheme",
+      "c) A special signaling protocol for feedback from the OLT to each ONU",
+      "d) Precise distance measurements"
+    ],
+    "answer": "c) A special signaling protocol for feedback from the OLT to each ONU"
+  },
+  {
+    "question": "Which component provides feedback to the ONUs in this solution?",
+    "options": ["a) The optical splitter", "b) Another ONU", "c) The OLT", "d) A separate server"],
+    "answer": "c) The OLT"
+  },
+  {
+    "question": "What type of traffic does EPON carry?",
+    "options": [
+      "a) ATM traffic",
+      "b) SONET traffic",
+      "c) Data traffic encapsulated in Ethernet frames",
+      "d) SDH traffic"
+    ],
+    "answer": "c) Data traffic encapsulated in Ethernet frames"
+  },
+  {
+    "question": "According to which standard are Ethernet frames defined in EPON?",
+    "options": ["a) IEEE 802.11", "b) IEEE 802.3", "c) IEEE 802.16", "d) IEEE 802.15"],
+    "answer": "b) IEEE 802.3"
+  },
+  {
+    "question": "At what data rates does EPON operate?",
+    "options": [
+      "a) Non-standard data rates",
+      "b) Variable data rates",
+      "c) Standard Ethernet data rates",
+      "d) Lower data rates than standard Ethernet"
+    ],
+    "answer": "c) Standard Ethernet data rates"
+  },
+  {
+    "question": "What does EPON stand for?",
+    "options": [
+      "a) Enhanced Passive Optical Network",
+      "b) Ethernet Passive Optical Network",
+      "c) Efficient Passive Optical Network",
+      "d) Extended Passive Optical Network"
+    ],
+    "answer": "b) Ethernet Passive Optical Network"
+  },
+  {
+    "question": "In the downstream direction of EPON, where do Ethernet frames travel from?",
+    "options": [
+      "a) From ONUs to the OLT",
+      "b) From one ONU to another",
+      "c) From the OLT to ONUs",
+      "d) Between users"
+    ],
+    "answer": "c) From the OLT to ONUs"
+  },
+  {
+    "question": "What device do the Ethernet frames pass through in the downstream direction?",
+    "options": ["a) A router", "b) A switch", "c) A 1:N passive splitter", "d) An amplifier"],
+    "answer": "c) A 1:N passive splitter"
+  },
+  {
+    "question": "What is the destination of the Ethernet frames in the downstream direction?",
+    "options": ["a) The MAN", "b) The backbone network", "c) Each ONU", "d) The CO"],
+    "answer": "c) Each ONU"
+  },
+  {
+    "question": "What does the '1:N' notation for the splitter represent?",
+    "options": [
+      "a) N inputs and 1 output",
+      "b) 1 input and N outputs",
+      "c) 1 input and 2 outputs",
+      "d) 2 inputs and N outputs"
+    ],
+    "answer": "b) 1 input and N outputs"
+  },
+  {
+    "question": "What are typical values for N (the number of ONUs served by a single OLT)?",
+    "options": [
+      "a) Between 2 and 4",
+      "b) Between 4 and 8",
+      "c) Between 8 and 32",
+      "d) Between 32 and 64"
+    ],
+    "answer": "c) Between 8 and 32"
+  },
+  {
+    "question": "How are packets extracted by their destination ONU in the downstream direction?",
+    "options": [
+      "a) Based on the IP address",
+      "b) Based on the MAC address",
+      "c) Based on a Logical Link Identifier (LLID)",
+      "d) Based on the port number"
+    ],
+    "answer": "c) Based on a Logical Link Identifier (LLID)"
+  },
+  {
+    "question": "When is the LLID assigned to an ONU?",
+    "options": [
+      "a) When the packet is transmitted",
+      "b) During normal operation",
+      "c) When it registers with the network",
+      "d) At the time of manufacturing"
+    ],
+    "answer": "c) When it registers with the network"
+  },
+  {
+    "question": "What is the method used by the OLT to send data to all ONUs?",
+    "options": ["a) Unicasting", "b) Multicasting", "c) Broadcasting", "d) Anycasting"],
+    "answer": "c) Broadcasting"
+  },
+  {
+    "question": "What does LLID stand for?",
+    "options": [
+      "a) Local Link Identifier",
+      "b) Linear Link Identifier",
+      "c) Logical Link Identifier",
+      "d) Layered Link Identifier"
+    ],
+    "answer": "c) Logical Link Identifier"
+  },
+  {
+    "question": "In the upstream direction in EPON, where do data frames travel from?",
+    "options": [
+      "a) From the OLT to ONUs",
+      "b) From one ONU to another ONU",
+      "c) From ONUs to the OLT",
+      "d) Between users"
+    ],
+    "answer": "c) From ONUs to the OLT"
+  },
+  {
+    "question": "What prevents data frames from one ONU reaching other ONUs in the upstream direction?",
+    "options": [
+      "a) Active switching",
+      "b) Time division multiplexing (TDM)",
+      "c) The directional properties of a passive optical combiner",
+      "d) Wavelength division multiplexing (WDM)"
+    ],
+    "answer": "c) The directional properties of a passive optical combiner"
+  },
+  {
+    "question": "What is the destination of the upstream data frames?",
+    "options": ["a) Another ONU", "b) The MAN", "c) The OLT", "d) The user's device"],
+    "answer": "c) The OLT"
+  },
+  {
+    "question": "What is the key characteristic of the optical combiner that directs upstream traffic?",
+    "options": [
+      "a) It is active",
+      "b) It amplifies the signal",
+      "c) It is directional",
+      "d) It splits the signal"
+    ],
+    "answer": "c) It is directional"
+  },
+  {
+    "question": "In the upstream direction, the behavior of EPON is similar to which architecture?",
+    "options": ["a) Bus", "b) Ring", "c) Point-to-point", "d) Mesh"],
+    "answer": "c) Point-to-point"
+  },
+  {
+    "question": "What can happen if data frames from different ONUs are transmitted simultaneously in EPON?",
+    "options": [
+      "a) Signal amplification",
+      "b) Signal attenuation",
+      "c) Data collisions",
+      "d) Signal regeneration"
+    ],
+    "answer": "c) Data collisions"
+  },
+  {
+    "question": "What do ONUs need to employ in the upstream direction to avoid data collisions?",
+    "options": [
+      "a) Amplifiers",
+      "b) Repeaters",
+      "c) An arbitration mechanism",
+      "d) Wavelength division multiplexing"
+    ],
+    "answer": "c) An arbitration mechanism"
+  },
+  {
+    "question": "What is the purpose of the arbitration mechanism used by ONUs?",
+    "options": [
+      "a) To increase bandwidth",
+      "b) To reduce signal loss",
+      "c) To avoid data collisions and fairly share the channel capacity",
+      "d) To encrypt data"
+    ],
+    "answer": "c) To avoid data collisions and fairly share the channel capacity"
+  },
+  {
+    "question": "How many optical channels does a basic PON use?",
+    "options": ["a) Multiple", "b) A single optical channel", "c) Two", "d) A variable number"],
+    "answer": "b) A single optical channel"
+  },
+  {
+    "question": "What technology can a PON employ to use multiple wavelengths?",
+    "options": ["a) TDM", "b) Ethernet", "c) WDM"],
+    "answer": "c) WDM"
+  },
+  {
+    "question": "What type of access network is a WDM-PON?",
+    "options": ["a) Point-to-multipoint", "b) Point-to-point", "c) Broadcast", "d) Ring"],
+    "answer": "b) Point-to-point"
+  },
+  {
+    "question": "What exists between the OLT and each ONU in a WDM-PON?",
+    "options": [
+      "a) A shared fiber",
+      "b) A time slot",
+      "c) A separate wavelength",
+      "d) A dedicated switch"
+    ],
+    "answer": "c) A separate wavelength"
+  },
+  {
+    "question": "What does WDM stand for?",
+    "options": [
+      "a) Wide Division Multiplexing",
+      "b) Wavelength Division Multiplexing",
+      "c) Wave Digital Multiplexing",
+      "d) Wireless Division Multiplexing"
+    ],
+    "answer": "b) Wavelength Division Multiplexing"
+  },
+  {
+    "question": "What is a benefit of WDM-PON regarding bit rates for different ONUs?",
+    "options": [
+      "a) All ONUs must operate at the same bit rate",
+      "b) Lower bit rates are mandatory",
+      "c) Different ONUs can be supported at different bit rates, if necessary",
+      "d) Only very high bit rates are supported"
+    ],
+    "answer": "c) Different ONUs can be supported at different bit rates, if necessary"
+  },
+  {
+    "question": "Compared to a basic PON, what does a WDM-PON not suffer from?",
+    "options": [
+      "a) Signal attenuation due to fiber length",
+      "b) Signal dispersion",
+      "c) Power-splitting losses"
+    ],
+    "answer": "c) Power-splitting losses"
+  },
+  {
+    "question": "What is the main reason WDM-PONs don't suffer from power splitting losses?",
+    "options": [
+      "a) Because they use optical amplifiers",
+      "b) Because they use electronic switches",
+      "c) Because each ONU has a dedicated wavelength",
+      "d) Because they use time division multiplexing"
+    ],
+    "answer": "c) Because each ONU has a dedicated wavelength"
+  },
+  {
+    "question": "In the downstream direction (OLT to ONU) of a typical WDM-PON architecture, what is used for each ONU?",
+    "options": [
+      "a) A shared wavelength",
+      "b) A time slot",
+      "c) A separate wavelength channel",
+      "d) A dedicated fiber"
+    ],
+    "answer": "c) A separate wavelength channel"
+  },
+  {
+    "question": "Where do WDM-PON architectures differ?",
+    "options": [
+      "a) In the downstream direction",
+      "b) In the amount of resources used in the upstream direction (ONU to OLT)",
+      "c) In the type of fiber used",
+      "d) In the location of the OLT"
+    ],
+    "answer": "b) In the amount of resources used in the upstream direction (ONU to OLT)"
+  },
+  {
+    "question": "What is one of the main reasons upstream communication differs from downstream communication in WDM-PONs?",
+    "options": [
+      "a) Higher bandwidth requirements in the upstream",
+      "b) ONU equipment (transmitters) must be inexpensive",
+      "c) More complex OLT equipment",
+      "d) Longer distances in the upstream"
+    ],
+    "answer": "b) ONU equipment (transmitters) must be inexpensive"
+  },
+  {
+    "question": "What component do most WDM PON designs typically use?",
+    "options": [
+      "a) Optical amplifiers",
+      "b) Optical switches",
+      "c) AWGs (Arrayed Waveguide Gratings)",
+      "d) Optical circulators"
+    ],
+    "answer": "c) AWGs (Arrayed Waveguide Gratings)"
+  },
+  {
+    "question": "What is the primary function of an AWG in a WDM PON?",
+    "options": [
+      "a) To amplify optical signals",
+      "b) To switch optical signals",
+      "c) To multiplex and demultiplex different wavelengths",
+      "d) To convert optical signals to electrical signals"
+    ],
+    "answer": "c) To multiplex and demultiplex different wavelengths"
+  },
+  {
+    "question": "In the diagram, what do the different lines entering and exiting the AWG represent?",
+    "options": [
+      "a) Different data rates",
+      "b) Different fiber types",
+      "c) Different wavelengths",
+      "d) Different signal strengths"
+    ],
+    "answer": "c) Different wavelengths"
   }
 ]

@@ -1001,5 +1001,134 @@
       "d) Different signal strengths"
     ],
     "answer": "c) Different wavelengths"
+  },
+  {
+    "question": "What does AWG stand for?",
+    "options": [
+      "a) Advanced Waveguide Grating",
+      "b) Arrayed Waveguide Grating",
+      "c) Automatic Waveguide Grating",
+      "d) Applied Waveguide Grating"
+    ],
+    "answer": "b) Arrayed Waveguide Grating"
+  },
+  {
+    "question": "In C-PON, in which band does WDM operate in the downstream direction?",
+    "options": ["a) 850 nm", "b) 1300 nm", "c) 1550 nm", "d) 1000 nm"],
+    "answer": "c) 1550 nm"
+  },
+  {
+    "question": "What method is used for upstream transmission in C-PON?",
+    "options": ["a) WDM", "b) TDMA (Time-Division Multiple Access)", "c) FDMA", "d) CDMA"],
+    "answer": "b) TDMA (Time-Division Multiple Access)"
+  },
+  {
+    "question": "In C-PON, what is used to support both upstream and downstream transmissions on a single fiber?",
+    "options": [
+      "a) Dense WDM (DWDM)",
+      "b) Coarse WDM (CWDM)",
+      "c) Time division multiplexing (TDM)",
+      "d) Frequency division multiplexing (FDM)"
+    ],
+    "answer": "b) Coarse WDM (CWDM)"
+  },
+  {
+    "question": "What does CPON stand for?",
+    "options": [
+      "a) Combined Passive Optical Network",
+      "b) Common Passive Optical Network",
+      "c) Composite Passive Optical Network",
+      "d) Coordinated Passive Optical Network"
+    ],
+    "answer": "c) Composite Passive Optical Network"
+  },
+  {
+    "question": "What does CWDM stand for?",
+    "options": [
+      "a) Compact Wavelength Division Multiplexing",
+      "b) Coarse Wavelength Division Multiplexing",
+      "c) Combined Wavelength Division Multiplexing",
+      "d) Common Wavelength Division Multiplexing"
+    ],
+    "answer": "b) Coarse Wavelength Division Multiplexing"
+  },
+  {
+    "question": "What is the key characteristic of the upstream receiver in a C-PON?",
+    "options": [
+      "a) It operates at multiple wavelengths.",
+      "b) It is a single-frequency, burst-mode receiver.",
+      "c) It uses wavelength division multiplexing.",
+      "d) It is immune to interference."
+    ],
+    "answer": "b) It is a single-frequency, burst-mode receiver."
+  },
+  {
+    "question": "Why does the C-PON use a single-frequency, burst-mode receiver in the upstream?",
+    "options": [
+      "a) To reduce power consumption",
+      "b) To improve signal amplification",
+      "c) To synchronize to the clock signals of different transmitting ONUs, which may be at different distances from the OLT.",
+      "d) To simplify the ONU design"
+    ],
+    "answer": "c) To synchronize to the clock signals of different transmitting ONUs, which may be at different distances from the OLT."
+  },
+  {
+    "question": "What component is responsible for splitting the downstream signal into different wavelengths for each ONU?",
+    "options": [
+      "a) The Passive Combiner",
+      "b) The ONU's transmitter",
+      "c) The AWG-Based Passive Router",
+      "d) The Single-Frequency, Burst-mode Receiver"
+    ],
+    "answer": "c) The AWG-Based Passive Router"
+  },
+  {
+    "question": "What does AWG stand for in this context?",
+    "options": [
+      "a) Arrayed Waveguide Grating",
+      "b) Advanced Wavelength Generator",
+      "c) Analog-to-Digital Converter"
+    ],
+    "answer": "a) Arrayed Waveguide Grating"
+  },
+  {
+    "question": "What does LARNET stand for?",
+    "options": [
+      "a) Local Area Radio Network",
+      "b) Local Access Remote Network",
+      "c) Long-distance Access Relay Network",
+      "d) Local Area Routing Network"
+    ],
+    "answer": "b) Local Access Remote Network"
+  },
+  {
+    "question": "In LARNET, how is the downstream signal distributed to the ONUs?",
+    "options": [
+      "a) Using time division multiplexing (TDM)",
+      "b) Using frequency division multiplexing (FDM)",
+      "c) Using an AWG-based router to separate wavelengths",
+      "d) Using a passive optical splitter"
+    ],
+    "answer": "c) Using an AWG-based router to separate wavelengths"
+  },
+  {
+    "question": "What type of device is used at each ONU to receive the downstream signal?",
+    "options": ["a) A laser", "b) A receiver", "c) An optical amplifier", "d) A modulator"],
+    "answer": "b) A receiver"
+  },
+  {
+    "question": "What is used at each ONU for upstream transmission?",
+    "options": ["a) A laser diode", "b) An optical amplifier", "c) An LED", "d) A photodiode"],
+    "answer": "c) An LED"
+  },
+  {
+    "question": "In LARNET, what receives the combined upstream signals from the ONUs?",
+    "options": [
+      "a) The AWG-based router",
+      "b) A passive optical splitter",
+      "c) A Broadband receiver",
+      "d) A WDM modulated source"
+    ],
+    "answer": "c) A Broadband receiver"
   }
 ]

@@ -1,0 +1,1655 @@
+[
+  {
+    "question": "What does Radio Frequency (RF) refer to?",
+    "options": [
+      "a) Sound waves",
+      "b) Mechanical waves",
+      "c) Electromagnetic waves used primarily for communication and broadcasting",
+      "d) Seismic waves"
+    ],
+    "answer": "c) Electromagnetic waves used primarily for communication and broadcasting"
+  },
+  {
+    "question": "What is the typical frequency range of RF waves?",
+    "options": [
+      "a) Between 3 Hz and 300 Hz",
+      "b) Between 3 MHz and 300 MHz",
+      "c) Between 3 kHz and 300 GHz"
+    ],
+    "answer": "c) Between 3 kHz and 300 GHz"
+  },
+  {
+    "question": "What are RF waves primarily used for?",
+    "options": [
+      "a) Heating food",
+      "b) Medical imaging",
+      "c) Communication and broadcasting",
+      "d) Power transmission"
+    ],
+    "answer": "c) Communication and broadcasting"
+  },
+  {
+    "question": "What does RF stand for?",
+    "options": [
+      "a) Regular Frequency",
+      "b) Rotating Field",
+      "c) Radio Frequency",
+      "d) Remote Frequency"
+    ],
+    "answer": "c) Radio Frequency"
+  },
+  {
+    "question": "Which type of electromagnetic radiation is used for Wi-Fi and Bluetooth?",
+    "options": ["a) Radio waves", "b) Microwaves", "c) Infrared", "d) Visible light"],
+    "answer": "a) Radio waves"
+  },
+  {
+    "question": "What type of electromagnetic radiation is used for cooking in a microwave oven?",
+    "options": ["a) Radio waves", "b) Microwaves", "c) Infrared", "d) Visible light"],
+    "answer": "b) Microwaves"
+  },
+  {
+    "question": "Which type of electromagnetic radiation is used for medical imaging?",
+    "options": ["a) Radio waves", "b) Microwaves", "c) Infrared", "d) X-rays"],
+    "answer": "d) X-rays"
+  },
+  {
+    "question": "How are the different types of electromagnetic radiation arranged on the electromagnetic spectrum?",
+    "options": ["a) Alphabetically", "b) By color", "c) By wavelength or frequency"],
+    "answer": "c) By wavelength or frequency"
+  },
+  {
+    "question": "What is the frequency range for Low RF (VLF)?",
+    "options": [
+      "a) 300 kHz to 30 MHz",
+      "b) 3 kHz to 30 kHz",
+      "c) 30 kHz to 300 kHz",
+      "d) Up to 300 GHz"
+    ],
+    "answer": "b) 3 kHz to 30 kHz"
+  },
+  {
+    "question": "What is the frequency range for Medium RF (LF)?",
+    "options": [
+      "a) 3 kHz to 30 kHz",
+      "b) 30 kHz to 300 kHz",
+      "c) 300 kHz to 30 MHz",
+      "d) Up to 300 GHz"
+    ],
+    "answer": "b) 30 kHz to 300 kHz"
+  },
+  {
+    "question": "What is the frequency range for High RF (MF, HF)?",
+    "options": [
+      "a) 3 kHz to 30 kHz",
+      "b) 30 kHz to 300 kHz",
+      "c) 300 kHz to 30 MHz",
+      "d) Up to 300 GHz"
+    ],
+    "answer": "c) 300 kHz to 30 MHz"
+  },
+  {
+    "question": "What is the frequency range for Very High RF and Beyond (including UHF, SHF, and EHF)?",
+    "options": ["b) 30 kHz to 300 kHz", "c) 300 kHz to 30 MHz", "d) Up to 300 GHz"],
+    "answer": "d) Up to 300 GHz"
+  },
+  {
+    "question": "At what speed do RF waves travel in a vacuum?",
+    "options": ["a) ~30,000 km/s", "b) ~300,000 km/s", "c) ~3,000,000 km/s"],
+    "answer": "b) ~300,000 km/s"
+  },
+  {
+    "question": "What does VLF stand for?",
+    "options": ["a) Very Low Field", "b) Variable Low Frequency", "c) Very Low Frequency"],
+    "answer": "c) Very Low Frequency"
+  },
+  {
+    "question": "What does LF stand for?",
+    "options": ["a) Low Field", "b) Linear Frequency", "c) Low Frequency", "d) Local Frequency"],
+    "answer": "c) Low Frequency"
+  },
+  {
+    "question": "What do MF and HF stand for?",
+    "options": [
+      "a) Micro Frequency and High Field",
+      "b) Medium Frequency and High Frequency",
+      "c) Main Frequency and Hyper Frequency",
+      "d) Mega Frequency and Hyper Field"
+    ],
+    "answer": "b) Medium Frequency and High Frequency"
+  },
+  {
+    "question": "What do UHF, SHF, and EHF stand for?",
+    "options": [
+      "a) Ultra High Field, Super High Field, and Extremely High Field",
+      "b) Unified High Frequency, Super Hyper Frequency, and Extended High Frequency",
+      "c) Ultra High Frequency, Super High Frequency, and Extremely High Frequency",
+      "d) Universal High Frequency, Standard High Frequency, and Extreme High Frequency"
+    ],
+    "answer": "c) Ultra High Frequency, Super High Frequency, and Extremely High Frequency"
+  },
+  {
+    "question": "Which of the following is a primary application of RF in communication?",
+    "options": [
+      "a) Satellite imaging",
+      "b) Radio, television, and mobile phones",
+      "c) Industrial welding",
+      "d) Medical X-rays"
+    ],
+    "answer": "b) Radio, television, and mobile phones"
+  },
+  {
+    "question": "Which technologies use RF for data transmission?",
+    "options": [
+      "a) Fiber optic cables",
+      "b) Ethernet cables",
+      "c) Wi-Fi, Bluetooth, and RFID",
+      "d) Telephone lines"
+    ],
+    "answer": "c) Wi-Fi, Bluetooth, and RFID"
+  },
+  {
+    "question": "What system uses RF signals for accurate positioning?",
+    "options": ["a) SONAR", "b) LiDAR", "c) GPS (Global Positioning System)", "d) RADAR"],
+    "answer": "c) GPS (Global Positioning System)"
+  },
+  {
+    "question": "In which medical application are RF waves used?",
+    "options": ["a) X-ray imaging", "b) Ultrasound", "c) MRI machines", "d) Laser surgery"],
+    "answer": "c) MRI machines"
+  },
+  {
+    "question": "Which industrial applications use RF waves?",
+    "options": [
+      "a) Cutting metal",
+      "b) Industrial heating and cooking (e.g., microwaves)",
+      "c) Chemical analysis",
+      "d) Material sorting"
+    ],
+    "answer": "b) Industrial heating and cooking (e.g., microwaves)"
+  },
+  {
+    "question": "In which military applications is RF employed?",
+    "options": ["a) Ballistic missiles", "b) Radar and communication systems", "c) Tanks"],
+    "answer": "b) Radar and communication systems"
+  },
+  {
+    "question": "What does RFID stand for?",
+    "options": [
+      "a) Radio Frequency Identification Device",
+      "b) Radio Field Identification",
+      "c) Radio Frequency Identification",
+      "d) Remote Frequency Identifier"
+    ],
+    "answer": "c) Radio Frequency Identification"
+  },
+  {
+    "question": "What does GPS stand for?",
+    "options": [
+      "a) Global Positioning Service",
+      "b) Global Positioning System",
+      "c) Geographic Positioning System",
+      "d) General Positioning System"
+    ],
+    "answer": "b) Global Positioning System"
+  },
+  {
+    "question": "What does MRI stand for?",
+    "options": [
+      "a) Medical Resonance Imaging",
+      "b) Magnetic Resonance Indicator",
+      "c) Magnetic Resonance Imaging",
+      "d) Medical Radioisotope Imaging"
+    ],
+    "answer": "c) Magnetic Resonance Imaging"
+  },
+  {
+    "question": "What generates RF?",
+    "options": [
+      "a) A magnetic field",
+      "b) An oscillating current in an electronic circuit",
+      "c) Light waves",
+      "d) Sound waves"
+    ],
+    "answer": "b) An oscillating current in an electronic circuit"
+  },
+  {
+    "question": "How is the generated RF signal transmitted?",
+    "options": [
+      "a) Through wires",
+      "b) Through optical fibers",
+      "c) Through a medium using an antenna, spreading in the form of waves",
+      "d) Through water"
+    ],
+    "answer": "c) Through a medium using an antenna, spreading in the form of waves"
+  },
+  {
+    "question": "What does a receiver do with the detected RF waves?",
+    "options": [
+      "a) Amplifies them",
+      "b) Attenuates them",
+      "c) Converts them back into a usable form, like audio or data",
+      "d) Stores them"
+    ],
+    "answer": "c) Converts them back into a usable form, like audio or data"
+  },
+  {
+    "question": "What is the form of the RF signal during transmission?",
+    "options": ["a) A direct current", "b) A static field", "c) Waves", "d) Pulses of light"],
+    "answer": "c) Waves"
+  },
+  {
+    "question": "What does AIDC stand for?",
+    "options": [
+      "a) Advanced Information and Data Collection",
+      "b) Automatic Identification and Data Capture",
+      "c) Automated Information and Data Center",
+      "d) Applied Information and Data Control"
+    ],
+    "answer": "b) Automatic Identification and Data Capture"
+  },
+  {
+    "question": "What does AIDC refer to?",
+    "options": [
+      "a) Manual data entry methods",
+      "b) Technologies and methods used to identify objects, collect data, and directly enter it into computer systems without manual data entry.",
+      "c) Data storage and retrieval systems",
+      "d) Network security protocols"
+    ],
+    "answer": "b) Technologies and methods used to identify objects, collect data, and directly enter it into computer systems without manual data entry."
+  },
+  {
+    "question": "What does AIDC streamline by automating identification and data capture?",
+    "options": [
+      "a) Data storage costs",
+      "b) Network bandwidth usage",
+      "c) Processes, improving accuracy and efficiency."
+    ],
+    "answer": "c) Processes, improving accuracy and efficiency."
+  },
+  {
+    "question": "What is the primary benefit of using AIDC?",
+    "options": [
+      "a) Increased manual labor",
+      "b) Higher data entry error rates",
+      "c) Improved accuracy and efficiency in data collection",
+      "d) More complex data management"
+    ],
+    "answer": "c) Improved accuracy and efficiency in data collection"
+  },
+  {
+    "question": "What is the purpose of data carriers in AIDC?",
+    "options": [
+      "b) To transmit data",
+      "c) To store information for identification",
+      "d) To capture data"
+    ],
+    "answer": "c) To store information for identification"
+  },
+  {
+    "question": "Which of the following is an example of a data carrier?",
+    "options": [
+      "a) Wi-Fi",
+      "b) Bluetooth",
+      "c) Barcodes, QR codes, RFID tags, and smart cards",
+      "d) Databases"
+    ],
+    "answer": "c) Barcodes, QR codes, RFID tags, and smart cards"
+  },
+  {
+    "question": "Which of the following is an example of a data capture device?",
+    "options": ["a) A database", "b) Barcode scanners and RFID readers", "c) Wi-Fi"],
+    "answer": "b) Barcode scanners and RFID readers"
+  },
+  {
+    "question": "What is the function of communication channels in AIDC?",
+    "options": [
+      "a) To store data",
+      "b) To transmit the captured data to a processing system",
+      "c) To identify objects",
+      "d) To manage data"
+    ],
+    "answer": "b) To transmit the captured data to a processing system"
+  },
+  {
+    "question": "Which of the following is an example of a communication channel used in AIDC?",
+    "options": [
+      "a) Barcodes",
+      "b) RFID tags",
+      "c) Wi-Fi, Bluetooth, or wired connections",
+      "d) Barcode scanners"
+    ],
+    "answer": "c) Wi-Fi, Bluetooth, or wired connections"
+  },
+  {
+    "question": "What is the role of data processing systems in AIDC?",
+    "options": [
+      "a) To capture data",
+      "b) To store data on data carriers",
+      "c) To interpret and manage the collected data",
+      "d) To transmit data"
+    ],
+    "answer": "c) To interpret and manage the collected data"
+  },
+  {
+    "question": "What does ERP stand for?",
+    "options": [
+      "a) External Resource Planning",
+      "b) Enterprise Resource Planning",
+      "c) Electronic Resource Processing",
+      "d) Extended Resource Processing"
+    ],
+    "answer": "b) Enterprise Resource Planning"
+  },
+  {
+    "question": "Which of the following is an application area of AIDC?",
+    "options": [
+      "a) Telecommunications",
+      "b) Retail, Healthcare, Logistics and Supply Chain, Security and Access Control, Manufacturing, Aviation",
+      "c) Agriculture",
+      "d) Construction"
+    ],
+    "answer": "b) Retail, Healthcare, Logistics and Supply Chain, Security and Access Control, Manufacturing, Aviation"
+  },
+  {
+    "question": "Which of these technologies is commonly used for AIDC?",
+    "options": [
+      "a) GPS",
+      "b) Barcodes, QR Codes, RFID, Magnetic Stripe Cards, Biometrics, OCR",
+      "c) Wi-Fi"
+    ],
+    "answer": "b) Barcodes, QR Codes, RFID, Magnetic Stripe Cards, Biometrics, OCR"
+  },
+  {
+    "question": "Which AIDC technology is often used for inventory tracking and supply chain management?",
+    "options": ["a) OCR", "b) Magnetic stripe cards", "c) RFID", "d) Biometrics"],
+    "answer": "c) RFID"
+  },
+  {
+    "question": "Which AIDC technology is used for identity verification and access control?",
+    "options": ["a) Barcodes", "b) QR codes", "c) Magnetic stripe cards", "d) Biometrics"],
+    "answer": "d) Biometrics"
+  },
+  {
+    "question": "Which AIDC technology is used for scanning printed or handwritten text?",
+    "options": ["a) RFID", "b) Magnetic stripe cards", "c) Barcodes", "d) OCR"],
+    "answer": "d) OCR"
+  },
+  {
+    "question": "What does OCR stand for?",
+    "options": [
+      "a) Optical Code Reader",
+      "b) Optical Character Recognition",
+      "c) Optical Code Recognition",
+      "d) Optical Character Reader"
+    ],
+    "answer": "b) Optical Character Recognition"
+  },
+  {
+    "question": "What type of technology is RFID?",
+    "options": ["a) Optical communication", "b) Wired communication", "c) Wireless communication"],
+    "answer": "c) Wireless communication"
+  },
+  {
+    "question": "What does RFID use to identify and track objects?",
+    "options": [
+      "a) Sound waves",
+      "b) Light waves",
+      "c) Electromagnetic fields",
+      "d) Mechanical sensors"
+    ],
+    "answer": "c) Electromagnetic fields"
+  },
+  {
+    "question": "What does RFID enable regarding data collection?",
+    "options": [
+      "a) Manual data entry",
+      "b) Data collection requiring physical contact",
+      "c) Data collection requiring line-of-sight",
+      "d) Automated data collection without physical contact or line-of-sight"
+    ],
+    "answer": "d) Automated data collection without physical contact or line-of-sight"
+  },
+  {
+    "question": "What does RFID offer as a solution?",
+    "options": [
+      "a) A limited solution for specific industries",
+      "b) A complex and costly solution",
+      "c) A versatile solution for identification and tracking in numerous industries",
+      "d) A solution that requires manual data entry"
+    ],
+    "answer": "c) A versatile solution for identification and tracking in numerous industries"
+  },
+  {
+    "question": "During which major event were the concepts behind RFID first explored?",
+    "options": ["a) World War I", "b) World War II", "c) The Cold War", "d) The Vietnam War"],
+    "answer": "b) World War II"
+  },
+  {
+    "question": "What system developed during World War II can be considered the first practical application of RFID principles?",
+    "options": ["a) SONAR", "b) RADAR", "c) IFF (Identification Friend or Foe)"],
+    "answer": "c) IFF (Identification Friend or Foe)"
+  },
+  {
+    "question": "What trend characterizes RFID technology from the 2010s to the present?",
+    "options": [
+      "a) Decreased affordability",
+      "b) Reduced applications",
+      "c) Integration with the Internet of Things (IoT) and improved affordability/miniaturization",
+      "d) Decreased industry interest"
+    ],
+    "answer": "c) Integration with the Internet of Things (IoT) and improved affordability/miniaturization"
+  },
+  {
+    "question": "Which of the following is a key component of an RFID system?",
+    "options": [
+      "a) Routers",
+      "b) Switches",
+      "c) RFID Tag (Transponder), RFID Reader (Interrogator), Antennas, Middleware (Software System), Communication Interface, Power Supply",
+      "d) Servers"
+    ],
+    "answer": "c) RFID Tag (Transponder), RFID Reader (Interrogator), Antennas, Middleware (Software System), Communication Interface, Power Supply"
+  },
+  {
+    "question": "What is another name for an RFID tag?",
+    "options": ["a) Interrogator", "b) Transponder", "c) Antenna", "d) Middleware"],
+    "answer": "b) Transponder"
+  },
+  {
+    "question": "What is the role of the RFID reader?",
+    "options": [
+      "a) To store data",
+      "b) To interrogate (read) the RFID tag",
+      "c) To transmit data over a network",
+      "d) To power the tag"
+    ],
+    "answer": "b) To interrogate (read) the RFID tag"
+  },
+  {
+    "question": "What is the purpose of antennas in an RFID system?",
+    "options": [
+      "a) To process data",
+      "b) To store data",
+      "c) To transmit and receive radio waves",
+      "d) To manage the network"
+    ],
+    "answer": "c) To transmit and receive radio waves"
+  },
+  {
+    "question": "What does the middleware (software system) do in an RFID system?",
+    "options": [
+      "a) Transmits radio waves",
+      "b) Powers the RFID tag",
+      "c) Interprets and manages the collected data from the RFID reader",
+      "d) Identifies the tag"
+    ],
+    "answer": "c) Interprets and manages the collected data from the RFID reader"
+  },
+  {
+    "question": "What is the purpose of the communication interface in an RFID system?",
+    "options": [
+      "a) To power the RFID tag",
+      "b) To process the data",
+      "c) To enable communication between the reader and the host system",
+      "d) To store the data on the tag"
+    ],
+    "answer": "c) To enable communication between the reader and the host system"
+  },
+  {
+    "question": "Which component provides energy to the RFID system (especially important for passive tags)?",
+    "options": [
+      "a) Middleware",
+      "b) Communication interface",
+      "c) Power supply (or the reader in the case of passive tags)",
+      "d) Antenna"
+    ],
+    "answer": "c) Power supply (or the reader in the case of passive tags)"
+  },
+  {
+    "question": "What are the two main components of an RFID tag?",
+    "options": [
+      "a) Battery and antenna",
+      "b) Reader and antenna",
+      "c) Microchip (IC) and antenna",
+      "d) Transmitter and receiver"
+    ],
+    "answer": "c) Microchip (IC) and antenna"
+  },
+  {
+    "question": "What is the function of the microchip (IC) in an RFID tag?",
+    "options": [
+      "a) To transmit RF signals",
+      "b) To store data, including a unique identifier",
+      "c) To power the tag",
+      "d) To receive RF signals"
+    ],
+    "answer": "b) To store data, including a unique identifier"
+  },
+  {
+    "question": "What is the function of the antenna in an RFID tag?",
+    "options": [
+      "a) To store data",
+      "b) To power the tag",
+      "c) To transmit and receive RF signals",
+      "d) To process data"
+    ],
+    "answer": "c) To transmit and receive RF signals"
+  },
+  {
+    "question": "Which type of RFID tag has no internal power source?",
+    "options": ["a) Passive tags", "b) Active tags", "c) Semi-passive tags", "d) All of the above"],
+    "answer": "a) Passive tags"
+  },
+  {
+    "question": "Which type of RFID tag is powered by an internal battery?",
+    "options": [
+      "a) Passive tags",
+      "b) Active tags",
+      "c) Semi-passive tags",
+      "d) None of the above"
+    ],
+    "answer": "b) Active tags"
+  },
+  {
+    "question": "Which type of RFID tag uses a battery for powering the chip but relies on the reader's signal for communication?",
+    "options": ["a) Passive tags", "b) Active tags", "c) Semi-passive tags", "d) All of the above"],
+    "answer": "c) Semi-passive tags"
+  },
+  {
+    "question": "What is the primary function of an RFID reader (interrogator)?",
+    "options": [
+      "a) To store data",
+      "b) To interact with tags by sending and receiving radio waves",
+      "c) To power active tags",
+      "d) To manage network traffic"
+    ],
+    "answer": "b) To interact with tags by sending and receiving radio waves"
+  },
+  {
+    "question": "Which component of the RFID reader sends RF signals to power passive tags and receives responses?",
+    "options": ["a) Controller", "b) Antenna", "c) Transceiver", "d) Power supply"],
+    "answer": "b) Antenna"
+  },
+  {
+    "question": "Which component of the RFID reader combines the functions of a transmitter and receiver?",
+    "options": ["a) Controller", "b) Antenna", "c) Transceiver", "d) Modem"],
+    "answer": "c) Transceiver"
+  },
+  {
+    "question": "Which component of the RFID reader processes the tag data and interfaces with other systems?",
+    "options": ["a) Transceiver", "b) Antenna", "c) Controller", "d) Power source"],
+    "answer": "c) Controller"
+  },
+  {
+    "question": "What is the role of the reader antenna?",
+    "options": [
+      "a) Only to receive signals from the tag",
+      "b) Only to power passive tags",
+      "c) To send RF signals to activate tags and capture data",
+      "d) To modulate the signal"
+    ],
+    "answer": "c) To send RF signals to activate tags and capture data"
+  },
+  {
+    "question": "What is the primary function of middleware in an RFID system?",
+    "options": [
+      "a) To transmit RF signals",
+      "b) To power the RFID tags",
+      "c) To handle the data collected by the reader",
+      "d) To connect tags and readers"
+    ],
+    "answer": "c) To handle the data collected by the reader"
+  },
+  {
+    "question": "Which of the following is a responsibility of RFID middleware?",
+    "options": [
+      "a) Tag manufacturing",
+      "b) Reader hardware maintenance",
+      "c) Data filtering, data processing, and system integration",
+      "d) Antenna design"
+    ],
+    "answer": "c) Data filtering, data processing, and system integration"
+  },
+  {
+    "question": "What does data filtering in middleware do?",
+    "options": [
+      "a) Adds more data",
+      "b) Eliminates duplicate or redundant data",
+      "c) Encrypts data",
+      "d) Transmits data"
+    ],
+    "answer": "b) Eliminates duplicate or redundant data"
+  },
+  {
+    "question": "What does data processing in middleware do?",
+    "options": [
+      "a) Deletes data",
+      "b) Aggregates data and prepares it for integration",
+      "c) Captures data",
+      "d) Stores raw data"
+    ],
+    "answer": "b) Aggregates data and prepares it for integration"
+  },
+  {
+    "question": "Which of the following are examples of wired connections used in RFID communication interfaces?",
+    "options": [
+      "a) Wi-Fi and Bluetooth",
+      "b) Ethernet and USB",
+      "c) RFID and NFC",
+      "d) Infrared and Zigbee"
+    ],
+    "answer": "b) Ethernet and USB"
+  },
+  {
+    "question": "Which of the following are examples of wireless connections used in RFID communication interfaces?",
+    "options": [
+      "a) Ethernet and USB",
+      "b) Serial and Parallel",
+      "c) Wi-Fi and Bluetooth",
+      "d) Fiber optic and coaxial"
+    ],
+    "answer": "c) Wi-Fi and Bluetooth"
+  },
+  {
+    "question": "What does CRM stand for?",
+    "options": [
+      "a) Central Resource Management",
+      "b) Customer Relation Manager",
+      "c) Customer Relationship Management",
+      "d) Central Relationship Manager"
+    ],
+    "answer": "c) Customer Relationship Management"
+  },
+  {
+    "question": "What is required for the operation of RFID readers?",
+    "options": [
+      "a) Internal batteries",
+      "b) A power supply",
+      "c) Electromagnetic fields from tags",
+      "d) Middleware"
+    ],
+    "answer": "b) A power supply"
+  },
+  {
+    "question": "How are active RFID tags powered?",
+    "options": [
+      "a) By the reader's signal",
+      "b) By internal batteries",
+      "c) By external power sources"
+    ],
+    "answer": "b) By internal batteries"
+  },
+  {
+    "question": "How are passive RFID tags powered?",
+    "options": [
+      "a) By internal batteries",
+      "b) By external power sources",
+      "c) By the electromagnetic field emitted by the reader",
+      "d) By solar energy"
+    ],
+    "answer": "c) By the electromagnetic field emitted by the reader"
+  },
+  {
+    "question": "What is the primary communication method used by RFID?",
+    "options": [
+      "a) Optical scanning",
+      "b) Radio waves",
+      "c) Physical contact",
+      "d) Infrared signals"
+    ],
+    "answer": "b) Radio waves"
+  },
+  {
+    "question": "What is the primary communication method used by barcodes?",
+    "options": [
+      "a) Radio waves",
+      "b) Physical contact",
+      "c) Infrared signals",
+      "d) Optical scanning"
+    ],
+    "answer": "d) Optical scanning"
+  },
+  {
+    "question": "What are the key components of an RFID system?",
+    "options": [
+      "a) Label and scanner",
+      "b) RFID tag (chip and antenna) and RFID reader",
+      "c) Ink and paper",
+      "d) Laser and sensor"
+    ],
+    "answer": "b) RFID tag (chip and antenna) and RFID reader"
+  },
+  {
+    "question": "What are the key components of a barcode system?",
+    "options": [
+      "a) Tag and reader",
+      "b) Radio waves and antenna",
+      "c) Barcode label (printed with optical patterns) and barcode scanner",
+      "d) Chip and battery"
+    ],
+    "answer": "c) Barcode label (printed with optical patterns) and barcode scanner"
+  },
+  {
+    "question": "What is the typical read range of passive UHF RFID tags?",
+    "options": ["a) A few centimeters", "b) Up to 12 meters", "c) 100+ meters", "d) Millimeters"],
+    "answer": "b) Up to 12 meters"
+  },
+  {
+    "question": "What is the typical read range of barcodes?",
+    "options": [
+      "a) Up to 12 meters",
+      "b) 100+ meters",
+      "c) A few centimeters to a few meters",
+      "d) Kilometers"
+    ],
+    "answer": "c) A few centimeters to a few meters"
+  },
+  {
+    "question": "How much data can RFID typically store?",
+    "options": ["a) A few bytes", "b) Kilobytes", "c) Megabytes", "d) Gigabytes"],
+    "answer": "b) Kilobytes"
+  },
+  {
+    "question": "How much data can a barcode typically store?",
+    "options": ["a) Kilobytes", "b) Megabytes", "c) Gigabytes", "d) A few bytes"],
+    "answer": "d) A few bytes"
+  },
+  {
+    "question": "Which technology allows for simultaneous reading of multiple items (bulk reading)?",
+    "options": ["a) Barcodes", "b) RFID", "c) Both", "d) Neither"],
+    "answer": "b) RFID"
+  },
+  {
+    "question": "Which technology requires line-of-sight for reading?",
+    "options": ["a) RFID", "b) Barcodes", "c) Both", "d) Neither"],
+    "answer": "b) Barcodes"
+  },
+  {
+    "question": "Which technology generally has a higher initial cost?",
+    "options": [
+      "a) Barcodes",
+      "b) RFID",
+      "c) Both have similar costs",
+      "d) Neither has a significant cost"
+    ],
+    "answer": "b) RFID"
+  },
+  {
+    "question": "Which of the following is an advantage of RFID?",
+    "options": [
+      "a) Low cost",
+      "b) Requires line-of-sight",
+      "c) Long-range reading, bulk and fast reading, tags can be reused and updated",
+      "d) Universally understood and compatible"
+    ],
+    "answer": "c) Long-range reading, bulk and fast reading, tags can be reused and updated"
+  },
+  {
+    "question": "Which of the following is an advantage of barcodes?",
+    "options": [
+      "a) Long-range reading",
+      "b) Bulk reading",
+      "c) Low cost and easy to deploy, universally understood and compatible, suitable for simple inventory systems",
+      "d) Reusable and updatable labels"
+    ],
+    "answer": "c) Low cost and easy to deploy, universally understood and compatible, suitable for simple inventory systems"
+  },
+  {
+    "question": "Which of the following is a disadvantage of RFID?",
+    "options": [
+      "a) Requires line-of-sight",
+      "b) Labels are easily damaged",
+      "c) Higher cost of tags and infrastructure, susceptible to interference from metals and liquids (UHF)",
+      "d) Limited data storage"
+    ],
+    "answer": "c) Higher cost of tags and infrastructure, susceptible to interference from metals and liquids (UHF)"
+  },
+  {
+    "question": "Which of the following is a disadvantage of barcodes?",
+    "options": [
+      "a) High cost",
+      "b) Long read range",
+      "c) Requires line-of-sight for scanning, labels are easily damaged",
+      "d) Not universally understood"
+    ],
+    "answer": "c) Requires line-of-sight for scanning, labels are easily damaged"
+  },
+  {
+    "question": "Which of the following is a typical application of RFID?",
+    "options": [
+      "a) Retail product labeling",
+      "b) Asset tracking, supply chain management, access control, contactless payments, toll collection, livestock identification",
+      "c) Library systems",
+      "d) Point-of-sale (POS) systems"
+    ],
+    "answer": "b) Asset tracking, supply chain management, access control, contactless payments, toll collection, livestock identification"
+  },
+  {
+    "question": "Which of the following is a typical application of barcodes?",
+    "options": [
+      "a) Supply chain management",
+      "b) Access control",
+      "c) Retail product labeling, library systems, simple inventory management, Point-of-sale (POS) systems",
+      "d) Contactless payments"
+    ],
+    "answer": "c) Retail product labeling, library systems, simple inventory management, Point-of-sale (POS) systems"
+  },
+  {
+    "question": "When is RFID ideally used?",
+    "options": [
+      "a) For low-cost, simple identification needs",
+      "b) For automated, bulk, or non-line-of-sight scanning",
+      "c) When labels are frequently changed",
+      "d) When only a few items need to be tracked"
+    ],
+    "answer": "b) For automated, bulk, or non-line-of-sight scanning"
+  },
+  {
+    "question": "When are barcodes best suited for use?",
+    "options": [
+      "a) For long-range tracking",
+      "b) For harsh environments",
+      "c) For low-cost, simple identification needs",
+      "d) For tracking items through multiple locations"
+    ],
+    "answer": "c) For low-cost, simple identification needs"
+  },
+  {
+    "question": "What does the RFID reader emit to activate passive tags?",
+    "options": [
+      "a) Sound waves",
+      "b) Light waves",
+      "c) An electromagnetic field",
+      "d) Infrared signals"
+    ],
+    "answer": "c) An electromagnetic field"
+  },
+  {
+    "question": "How does the tag's antenna get powered?",
+    "options": [
+      "a) Through a wired connection",
+      "b) By capturing energy from the reader's signal",
+      "c) From an internal battery",
+      "d) Through solar cells"
+    ],
+    "answer": "b) By capturing energy from the reader's signal"
+  },
+  {
+    "question": "What does the microchip in the tag do after being powered?",
+    "options": [
+      "a) Transmits the reader's signal",
+      "b) Processes the incoming signal and encodes its stored data",
+      "c) Amplifies the signal",
+      "d) Stores the reader's signal"
+    ],
+    "answer": "b) Processes the incoming signal and encodes its stored data"
+  },
+  {
+    "question": "How does the tag transmit data back to the reader?",
+    "options": [
+      "a) By emitting its own electromagnetic field",
+      "b) Through a wired connection",
+      "c) By reflecting a modulated signal back to the reader (backscatter communication)",
+      "d) By using Bluetooth"
+    ],
+    "answer": "c) By reflecting a modulated signal back to the reader (backscatter communication)"
+  },
+  {
+    "question": "What happens after the RFID reader captures the tag's response?",
+    "options": [
+      "a) It stores the data on the tag",
+      "b) It displays the data to the user",
+      "c) It processes the response and sends it to the middleware",
+      "d) It discards the response"
+    ],
+    "answer": "c) It processes the response and sends it to the middleware"
+  },
+  {
+    "question": "How do active tags transmit signals?",
+    "options": [
+      "a) By reflecting the reader's signal",
+      "b) Through a wired connection",
+      "c) By actively transmitting signals",
+      "d) Using backscatter modulation"
+    ],
+    "answer": "c) By actively transmitting signals"
+  },
+  {
+    "question": "How are active tags activated?",
+    "options": [
+      "a) Only by continuous broadcasting",
+      "b) Only by detecting a reader's signal",
+      "c) Either by continuously broadcasting signals or waking up when detecting a reader's signal (depending on the design)",
+      "d) By physical contact with the reader"
+    ],
+    "answer": "c) Either by continuously broadcasting signals or waking up when detecting a reader's signal (depending on the design)"
+  },
+  {
+    "question": "What type of data can active tags send?",
+    "options": [
+      "a) Only a unique ID",
+      "b) Only sensor readings",
+      "c) Data such as ID or sensor readings",
+      "d) Only encrypted data"
+    ],
+    "answer": "c) Data such as ID or sensor readings"
+  },
+  {
+    "question": "Where does the RFID reader send the captured data?",
+    "options": [
+      "a) Directly to the user",
+      "b) Only to middleware",
+      "c) Only to a backend system",
+      "d) To middleware or a backend system"
+    ],
+    "answer": "d) To middleware or a backend system"
+  },
+  {
+    "question": "What happens to the data in the post-processing stage?",
+    "options": [
+      "a) It is transmitted to other tags",
+      "b) It is stored on the tag",
+      "c) It is processed for analysis or integration into an application",
+      "d) It is discarded"
+    ],
+    "answer": "c) It is processed for analysis or integration into an application"
+  },
+  {
+    "question": "What do semi-passive RFID tags combine elements of?",
+    "options": [
+      "a) Only passive tags",
+      "b) Only active tags",
+      "c) Both passive and active tags",
+      "d) Neither passive nor active tags"
+    ],
+    "answer": "c) Both passive and active tags"
+  },
+  {
+    "question": "What powers the microchip in a semi-passive tag?",
+    "options": [
+      "a) The reader's signal",
+      "b) An internal battery",
+      "c) External power",
+      "d) Ambient RF energy"
+    ],
+    "answer": "b) An internal battery"
+  },
+  {
+    "question": "What does a semi-passive tag rely on the reader's signal for?",
+    "options": [
+      "a) Powering the microchip",
+      "b) Communication (enabling data transmission)",
+      "c) Data storage",
+      "d) Activation of the battery"
+    ],
+    "answer": "b) Communication (enabling data transmission)"
+  },
+  {
+    "question": "When is the microchip in a semi-passive tag powered?",
+    "options": [
+      "a) Only when the reader's signal is present",
+      "b) Continuously, even when no reader signal is present",
+      "c) Only during data transmission",
+      "d) Only during data reception"
+    ],
+    "answer": "b) Continuously, even when no reader signal is present"
+  },
+  {
+    "question": "How does a semi-passive tag transmit data?",
+    "options": [
+      "a) Only using backscatter modulation",
+      "b) Only using active transmission",
+      "c) Using backscatter or active transmission",
+      "d) Through a wired connection"
+    ],
+    "answer": "c) Using backscatter or active transmission"
+  },
+  {
+    "question": "When is power available to a passive tag?",
+    "options": [
+      "a) Continuously",
+      "b) Only when it is being programmed",
+      "c) Only in the RF field of the reader",
+      "d) Only during data transmission"
+    ],
+    "answer": "c) Only in the RF field of the reader"
+  },
+  {
+    "question": "When is power available to an active tag?",
+    "options": [
+      "a) Only when the reader sends a signal",
+      "b) Only during data transmission",
+      "c) Only when it is being programmed",
+      "d) Continuously"
+    ],
+    "answer": "d) Continuously"
+  },
+  {
+    "question": "How does the size of passive tags compare to active tags?",
+    "options": ["a) Larger", "b) Similar size", "c) Smaller", "d) Size is not a factor"],
+    "answer": "c) Smaller"
+  },
+  {
+    "question": "What is the typical tag life of passive tags?",
+    "options": ["a) 2-6 years", "b) 10 years", "c) 20+ years", "d) 1 year"],
+    "answer": "c) 20+ years"
+  },
+  {
+    "question": "What is the typical tag life of active tags?",
+    "options": ["a) 20+ years", "b) 10 years", "c) 1 year", "d) 2-6 years (battery life)"],
+    "answer": "d) 2-6 years (battery life)"
+  },
+  {
+    "question": "How does the reader signal strength for passive tags compare to active tags?",
+    "options": ["a) Lower", "b) Similar", "c) Higher", "d) Dependent on the tag"],
+    "answer": "c) Higher"
+  },
+  {
+    "question": "What is the typical read range for passive tags?",
+    "options": ["a) 90 to 230m", "b) 1km", "c) 10cm to 6m", "d) 10m to 50m"],
+    "answer": "c) 10cm to 6m"
+  },
+  {
+    "question": "What is the typical read range for active tags?",
+    "options": ["a) 10cm to 6m", "b) 1km", "c) 10m to 50m", "d) 90 to 230m approx."],
+    "answer": "d) 90 to 230m approx."
+  },
+  {
+    "question": "How does multi-tag reading capability of passive tags compare to active tags?",
+    "options": [
+      "a) More tags recognized at higher speeds",
+      "b) Fewer tags recognized at slower speeds",
+      "c) Similar capability",
+      "d) Passive tags cannot read multiple tags"
+    ],
+    "answer": "b) Fewer tags recognized at slower speeds"
+  },
+  {
+    "question": "Why do RFID tags operate at different frequencies?",
+    "options": [
+      "a) To confuse readers",
+      "b) Due to government regulatory requirements, type of host material, and read-range and speed requirements",
+      "c) To save power",
+      "d) To increase cost"
+    ],
+    "answer": "b) Due to government regulatory requirements, type of host material, and read-range and speed requirements"
+  },
+  {
+    "question": "What type of antenna do LF tags typically require?",
+    "options": [
+      "a) A simple wire antenna",
+      "b) A coil antenna with several hundred turns around a core",
+      "c) A patch antenna",
+      "d) A dipole antenna"
+    ],
+    "answer": "b) A coil antenna with several hundred turns around a core"
+  },
+  {
+    "question": "What is a common application of LF RFID?",
+    "options": [
+      "a) High-speed toll collection",
+      "b) Retail inventory tracking",
+      "c) Animal tagging",
+      "d) Contactless payments"
+    ],
+    "answer": "c) Animal tagging"
+  },
+  {
+    "question": "What is a key advantage of LF RFID regarding regulatory limitations?",
+    "options": [
+      "a) Strict regulations",
+      "b) Relative freedom from regulatory limitations",
+      "c) Requires international licensing",
+      "d) No regulations exist"
+    ],
+    "answer": "b) Relative freedom from regulatory limitations"
+  },
+  {
+    "question": "What materials does LF RFID penetrate well?",
+    "options": ["a) Metals", "b) Water, tissue, and wood", "c) Concrete", "d) All materials"],
+    "answer": "b) Water, tissue, and wood"
+  },
+  {
+    "question": "Which of the following is a disadvantage of LF RFID?",
+    "options": [
+      "a) Low manufacturing cost",
+      "b) Ability to handle large amounts of data",
+      "c) Slow read speeds",
+      "d) Not affected by water"
+    ],
+    "answer": "c) Slow read speeds"
+  },
+  {
+    "question": "What is a common application of HF RFID?",
+    "options": [
+      "a) Long-range vehicle tracking",
+      "b) Smart cards (e.g., Oyster card)",
+      "c) Animal tagging over long distances",
+      "d) Tracking large shipping containers"
+    ],
+    "answer": "b) Smart cards (e.g., Oyster card)"
+  },
+  {
+    "question": "Which of the following is an advantage of HF RFID compared to LF RFID?",
+    "options": [
+      "a) Lower data rates",
+      "b) Simpler antenna design",
+      "c) Ability to penetrate metal",
+      "d) Lower manufacturing cost"
+    ],
+    "answer": "d) Lower manufacturing cost"
+  },
+  {
+    "question": "Which of the following is a disadvantage of HF RFID compared to UHF RFID?",
+    "options": [
+      "a) Lower reader cost",
+      "b) Larger antenna size",
+      "c) Not affected by water/tissue",
+      "d) Simpler antenna design"
+    ],
+    "answer": "c) Not affected by water/tissue"
+  },
+  {
+    "question": "What is a key characteristic of HF RFID's interaction with water and tissue?",
+    "options": [
+      "a) Signals are heavily absorbed",
+      "b) Signals are not affected",
+      "c) Signals are enhanced",
+      "d) Signals are reflected"
+    ],
+    "answer": "b) Signals are not affected"
+  },
+  {
+    "question": "What is a major application of UHF RFID?",
+    "options": [
+      "a) Animal tagging",
+      "b) Access control",
+      "c) Supply Chain Management",
+      "d) Contactless payments"
+    ],
+    "answer": "c) Supply Chain Management"
+  },
+  {
+    "question": "What type of communication does UHF RFID offer (generally)?",
+    "options": [
+      "a) Requires line-of-sight",
+      "b) Limited range",
+      "c) Good non-line-of-sight communication (except for 'lossy' materials)",
+      "d) Short range and high power"
+    ],
+    "answer": "c) Good non-line-of-sight communication (except for 'lossy' materials)"
+  },
+  {
+    "question": "How do the data rates and data amounts of UHF compare to LF and HF?",
+    "options": [
+      "a) Lower data rates and smaller amounts of data",
+      "b) Similar data rates and data amounts",
+      "c) Higher data rates with large amounts of data",
+      "d) Data rates are dependent on the reader"
+    ],
+    "answer": "c) Higher data rates with large amounts of data"
+  },
+  {
+    "question": "What is a characteristic of UHF antennas?",
+    "options": [
+      "a) Omnidirectional",
+      "b) Large and bulky",
+      "c) Directional, providing a controlled read zone",
+      "d) Ineffective around metals"
+    ],
+    "answer": "c) Directional, providing a controlled read zone"
+  },
+  {
+    "question": "How does UHF perform around metals?",
+    "options": [
+      "a) Signals are completely blocked",
+      "b) Signals are significantly weakened",
+      "c) Effective around metals"
+    ],
+    "answer": "c) Effective around metals"
+  },
+  {
+    "question": "How do UHF tag and antenna sizes compare to HF tags?",
+    "options": ["a) Larger", "b) Similar", "c) Smaller", "d) Size is not a factor"],
+    "answer": "c) Smaller"
+  },
+  {
+    "question": "Which of the following is an advantage of UHF RFID compared to HF RFID?",
+    "options": [
+      "a) Ability to penetrate water and tissue",
+      "b) Lower reader cost",
+      "c) Higher data rates",
+      "d) Larger tag size"
+    ],
+    "answer": "c) Higher data rates"
+  },
+  {
+    "question": "Which of the following is a disadvantage of UHF RFID?",
+    "options": [
+      "a) Does not penetrate water and tissue",
+      "b) Lower data rates",
+      "c) Lower reader cost",
+      "d) Smaller tag size"
+    ],
+    "answer": "a) Does not penetrate water and tissue"
+  },
+  {
+    "question": "Which frequency band has the shortest read range?",
+    "options": ["a) HF", "b) UHF", "c) Microwave", "d) LF"],
+    "answer": "d) LF"
+  },
+  {
+    "question": "Which frequency band has the highest data rate?",
+    "options": ["a) LF", "b) HF", "c) UHF", "d) Microwave"],
+    "answer": "d) Microwave"
+  },
+  {
+    "question": "Which frequency band has the lowest interference sensitivity?",
+    "options": ["a) HF", "b) UHF", "c) Microwave", "d) LF"],
+    "answer": "d) LF"
+  },
+  {
+    "question": "Which frequency band is commonly used for animal tagging and access control?",
+    "options": ["a) HF", "b) UHF", "c) Microwave", "d) LF"],
+    "answer": "d) LF"
+  },
+  {
+    "question": "Which frequency band is commonly used for smart cards, library systems, NFC, and payments?",
+    "options": ["a) LF", "b) HF", "c) UHF", "d) Microwave"],
+    "answer": "b) HF"
+  },
+  {
+    "question": "Which frequency band is commonly used for logistics, supply chain, and toll collection?",
+    "options": ["a) LF", "b) HF", "c) UHF", "d) Microwave"],
+    "answer": "c) UHF"
+  },
+  {
+    "question": "Which frequency band is used for specialized applications and tolling?",
+    "options": ["a) LF", "b) HF", "c) UHF", "d) Microwave"],
+    "answer": "d) Microwave"
+  },
+  {
+    "question": "Which frequency band has moderate Interference Sensitivity?",
+    "options": ["a) LF", "b) HF", "c) UHF", "d) Microwave"],
+    "answer": "b) HF"
+  },
+  {
+    "question": "Which organization sets RFID standards in the USA?",
+    "options": ["a) CEPT", "b) ETSI", "c) FCC", "d) MPHPT"],
+    "answer": "c) FCC"
+  },
+  {
+    "question": "Which organization is responsible for RFID standards in Japan?",
+    "options": ["a) FCC", "b) CEPT", "c) ETSI", "d) MPHPT"],
+    "answer": "d) MPHPT"
+  },
+  {
+    "question": "What does CEPT stand for?",
+    "options": [
+      "a) Federal Communications Commission",
+      "b) European Conference of Postal and Telecommunications",
+      "c) European Telecommunications Standards Institute",
+      "d) Ministry of Public Management, Home Affairs, Posts and Telecommunication"
+    ],
+    "answer": "b) European Conference of Postal and Telecommunications"
+  },
+  {
+    "question": "How do passive RFID tags communicate?",
+    "options": [
+      "a) By transmitting their own radio signal",
+      "b) By reflecting a signal from a reader",
+      "c) By using a battery to power a transmitter",
+      "d) By using Bluetooth communication"
+    ],
+    "answer": "b) By reflecting a signal from a reader"
+  },
+  {
+    "question": "What does the tag IC do in backscatter communication?",
+    "options": [
+      "a) Generates a new signal",
+      "b) Changes the reflective property of the tag antenna",
+      "c) Amplifies the reader's signal",
+      "d) Stores large amounts of data"
+    ],
+    "answer": "b) Changes the reflective property of the tag antenna"
+  },
+  {
+    "question": "What is a decibel (dB)?",
+    "options": [
+      "a) A measure of voltage",
+      "b) The ratio between two signal levels",
+      "c) A unit of frequency",
+      "d) A measure of current"
+    ],
+    "answer": "b) The ratio between two signal levels"
+  },
+  {
+    "question": "What does dBm refer to?",
+    "options": [
+      "a) Power in decibels referenced to one watt",
+      "b) Power in decibels referenced to one milliwatt (1mW)",
+      "c) Voltage in decibels referenced to one volt",
+      "d) Current in decibels referenced to one milliampere"
+    ],
+    "answer": "b) Power in decibels referenced to one milliwatt (1mW)"
+  },
+  {
+    "question": "What does EIRP represent?",
+    "options": [
+      "a) The total power radiated by an antenna in a given direction, assuming an isotropic radiator.",
+      "b) The power output of the transmitter.",
+      "c) The gain of the antenna.",
+      "d) The loss in the cable."
+    ],
+    "answer": "a) The total power radiated by an antenna in a given direction, assuming an isotropic radiator."
+  },
+  {
+    "question": "In the EIRP formula, what does Gantenna represent?",
+    "options": [
+      "a) Power output of the transmitter",
+      "b) Gain of the antenna relative to an isotropic radiator (in dBi)",
+      "c) Loss in the cable",
+      "d) Effective Radiated Power"
+    ],
+    "answer": "b) Gain of the antenna relative to an isotropic radiator (in dBi)"
+  },
+  {
+    "question": "What is the unit of measure for antenna gain (Gantenna) in the EIRP formula?",
+    "options": ["a) dBm", "b) dBW", "c) dBi", "d) dB"],
+    "answer": "c) dBi"
+  },
+  {
+    "question": "What does ERP represent?",
+    "options": [
+      "a) The power radiated assuming an isotropic radiator.",
+      "b) The power radiated relative to a half-wave dipole antenna.",
+      "c) The power output of the transmitter.",
+      "d) The loss in the cable."
+    ],
+    "answer": "b) The power radiated relative to a half-wave dipole antenna."
+  },
+  {
+    "question": "What is the relationship between ERP and EIRP?",
+    "options": [
+      "a) ERP = EIRP + 2.15 dB",
+      "b) ERP = EIRP - 2.15 dB",
+      "c) ERP = EIRP * 2.15 dB",
+      "d) ERP = EIRP / 2.15 dB"
+    ],
+    "answer": "b) ERP = EIRP - 2.15 dB"
+  },
+  {
+    "question": "What units are used for power when calculating ERP/EIRP in the linear scale?",
+    "options": ["a) dBm and dBW", "b) W and mW", "c) dBi and dBd", "d) dB"],
+    "answer": "b) W and mW"
+  },
+  {
+    "question": "What mathematical operations are used in the logarithmic scale (dBm/dBW) ERP/EIRP calculations?",
+    "options": [
+      "a) Multiplication and division",
+      "b) Addition and subtraction",
+      "c) Exponentiation and logarithms",
+      "d) Integration and differentiation"
+    ],
+    "answer": "b) Addition and subtraction"
+  },
+  {
+    "question": "In the logarithmic ERP formula, what unit is used for Antenna Gain?",
+    "options": ["a) dBi", "b) dBd", "c) dBm", "d) dBW"],
+    "answer": "b) dBd"
+  },
+  {
+    "question": "In the logarithmic EIRP formula, what unit is used for Antenna Gain?",
+    "options": ["a) dBi", "b) dBd", "c) dBm", "d) dBW"],
+    "answer": "a) dBi"
+  },
+  {
+    "question": "What are the two main components shown in the diagram?",
+    "options": [
+      "a) Host computer and network",
+      "b) Antenna and ID",
+      "c) Reader and Tag",
+      "d) Downlink and Uplink"
+    ],
+    "answer": "c) Reader and Tag"
+  },
+  {
+    "question": "What is the direction of the downlink communication?",
+    "options": [
+      "a) From Reader to Tag (R→T)",
+      "b) From Tag to Reader (T→R)",
+      "c) From Host to Reader",
+      "d) From Tag to Host"
+    ],
+    "answer": "a) From Reader to Tag (R→T)"
+  },
+  {
+    "question": "What is the direction of the uplink communication?",
+    "options": [
+      "a) From Reader to Tag (R→T)",
+      "b) From Tag to Reader (T→R)",
+      "c) From Host to Reader",
+      "d) From Tag to Host"
+    ],
+    "answer": "b) From Tag to Reader (T→R)"
+  },
+  {
+    "question": "Where is the ID initially stored?",
+    "options": [
+      "a) In the reader's memory",
+      "b) In the tag's memory",
+      "c) In the host computer's memory",
+      "d) In the network"
+    ],
+    "answer": "b) In the tag's memory"
+  },
+  {
+    "question": "What is the primary method of communication in near-field RFID?",
+    "options": [
+      "a) Inductive coupling (magnetic fields)",
+      "b) Radio waves",
+      "c) Capacitive coupling",
+      "d) Light waves"
+    ],
+    "answer": "a) Inductive coupling (magnetic fields)"
+  },
+  {
+    "question": "How does the tag in near-field RFID transmit data?",
+    "options": [
+      "a) By generating its own signal",
+      "b) By using load modulation",
+      "c) By amplifying the reader's signal",
+      "d) By reflecting radio waves"
+    ],
+    "answer": "b) By using load modulation"
+  },
+  {
+    "question": "What does the reader generate in near-field communication?",
+    "options": [
+      "a) An alternating magnetic field",
+      "b) A radio wave signal",
+      "c) An electrical current",
+      "d) A light pulse"
+    ],
+    "answer": "a) An alternating magnetic field"
+  },
+  {
+    "question": "What frequencies are typically used in near-field RFID?",
+    "options": ["a) UHF and Microwave", "b) LF and HF", "c) Microwave only", "d) VHF and UHF"],
+    "answer": "b) LF and HF"
+  },
+  {
+    "question": "Which of the following is a common application of near-field communication?",
+    "options": [
+      "a) Long-range tracking of goods",
+      "b) Contactless payment systems (NFC-based payments)",
+      "c) Tracking vehicles over large distances",
+      "d) Satellite communication"
+    ],
+    "answer": "b) Contactless payment systems (NFC-based payments)"
+  },
+  {
+    "question": "Which of the following is an advantage of near-field communication?",
+    "options": [
+      "a) Long communication range",
+      "b) High security due to the short range",
+      "c) High data rates",
+      "d) High interference from other devices"
+    ],
+    "answer": "b) High security due to the short range"
+  },
+  {
+    "question": "Which of the following is a limitation of near-field communication?",
+    "options": [
+      "a) High security",
+      "b) Low interference",
+      "c) Limited communication range",
+      "d) High power consumption"
+    ],
+    "answer": "c) Limited communication range"
+  },
+  {
+    "question": "What is the primary method of communication in far-field RFID?",
+    "options": [
+      "a) Inductive coupling",
+      "b) Electromagnetic wave propagation",
+      "c) Capacitive coupling",
+      "d) Direct contact"
+    ],
+    "answer": "b) Electromagnetic wave propagation"
+  },
+  {
+    "question": "How does the tag in far-field RFID transmit data?",
+    "options": [
+      "a) By generating its own signal",
+      "b) By using backscatter modulation",
+      "c) By absorbing the reader's signal",
+      "d) Through a wired connection"
+    ],
+    "answer": "b) By using backscatter modulation"
+  },
+  {
+    "question": "What does the reader emit in far-field communication?",
+    "options": [
+      "a) A continuous radio frequency (RF) signal",
+      "b) A magnetic field",
+      "c) An electrical current",
+      "d) An infrared beam"
+    ],
+    "answer": "a) A continuous radio frequency (RF) signal"
+  },
+  {
+    "question": "What frequency ranges are typically used in far-field RFID?",
+    "options": ["a) LF and HF", "b) UHF and Microwave", "c) Only LF", "d) Only HF"],
+    "answer": "b) UHF and Microwave"
+  },
+  {
+    "question": "Which of the following is a common application of far-field RFID?",
+    "options": [
+      "a) Contactless payment systems",
+      "b) Logistics and supply chain management",
+      "c) Access control for small rooms",
+      "d) Short-range data transfer between mobile devices",
+      "e) NFC payments"
+    ],
+    "answer": "b) Logistics and supply chain management"
+  },
+  {
+    "question": "Which of the following is an advantage of far-field communication compared to near-field?",
+    "options": [
+      "a) Lower power requirements for the reader",
+      "b) Higher security",
+      "c) Longer communication range",
+      "d) Lower susceptibility to interference",
+      "e) Simpler tag design"
+    ],
+    "answer": "c) Longer communication range"
+  },
+  {
+    "question": "Which of the following is a limitation of far-field communication?",
+    "options": [
+      "a) Limited communication range",
+      "b) Slower data rates",
+      "c) More susceptible to interference",
+      "d) Lower power requirements for the reader",
+      "e) High security"
+    ],
+    "answer": "c) More susceptible to interference"
+  },
+  {
+    "question": "What is a key application of RFID in inventory management?",
+    "options": [
+      "a) Securing physical access to warehouses",
+      "b) Real-time tracking of inventory levels",
+      "c) Monitoring employee attendance",
+      "d) Controlling temperature in storage facilities",
+      "e) Tracking delivery trucks on route"
+    ],
+    "answer": "b) Real-time tracking of inventory levels"
+  },
+  {
+    "question": "How does RFID improve traceability in the supply chain?",
+    "options": [
+      "a) By physically marking products with serial numbers",
+      "b) By recording data at each stage of the supply chain",
+      "c) By using GPS tracking on delivery vehicles",
+      "d) By using barcode scanners at checkpoints",
+      "e) By manually logging data into spreadsheets"
+    ],
+    "answer": "b) By recording data at each stage of the supply chain"
+  },
+  {
+    "question": "In which industries is improved traceability through RFID particularly critical?",
+    "options": [
+      "a) Retail clothing",
+      "b) Electronics manufacturing",
+      "c) Food and pharmaceuticals",
+      "d) Automotive manufacturing",
+      "e) Toy manufacturing"
+    ],
+    "answer": "c) Food and pharmaceuticals"
+  },
+  {
+    "question": "What is a benefit of using RFID in logistics and transportation?",
+    "options": [
+      "a) Increased manual handling of goods",
+      "b) Reduced risk of theft, loss, or damage",
+      "c) Slower delivery times",
+      "d) Higher transportation costs",
+      "e) Reduced visibility of goods in transit"
+    ],
+    "answer": "b) Reduced risk of theft, loss, or damage"
+  },
+  {
+    "question": "What type of information can RFID-enabled containers provide in transit?",
+    "options": [
+      "a) Only location updates",
+      "b) Only environmental conditions",
+      "c) Both location and environmental conditions (e.g., temperature)",
+      "d) Only the weight of the container"
+    ],
+    "answer": "c) Both location and environmental conditions (e.g., temperature)"
+  },
+  {
+    "question": "How does RFID simplify reverse logistics?",
+    "options": [
+      "a) By requiring manual inspection of returned goods",
+      "b) By enabling quick identification and tracking of returned goods",
+      "c) By slowing down the recycling process",
+      "d) By increasing the cost of returns",
+      "e) By making it harder to track returned items"
+    ],
+    "answer": "b) By enabling quick identification and tracking of returned goods"
+  },
+  {
+    "question": "What is the primary benefit of RFID in automated warehousing?",
+    "options": [
+      "a) Increased reliance on manual labor",
+      "b) Streamlined warehouse operations",
+      "c) Slower sorting and packing processes",
+      "d) Reduced accuracy in inventory management",
+      "e) Increased storage space requirements"
+    ],
+    "answer": "b) Streamlined warehouse operations"
+  }
+]
